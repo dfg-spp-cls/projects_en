@@ -9,7 +9,7 @@ header:
       de: &DE       Home
       de-DE: *DE
       # @end locale config
-      url: /
+      url: https://dfg-spp-cls.github.io/
   - titles:
       # @start locale config
       en      : &EN       Projects
@@ -42,7 +42,7 @@ header:
       de      : &DE       Über uns
       de-DE   : *DE
       # @end locale config
-    url: /about.html
+    url: https://dfg-spp-cls.github.io/about.html
 #  - titles:
 #      # @start locale config
 #      en      : &EN       Committee
