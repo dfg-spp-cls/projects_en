@@ -1,0 +1,19 @@
+I")<p><strong><em>Berenike Herrmann, Arthur Jacobs, Gerhard Lauer &amp; Jana Lüdtke</em></strong></p>
+
+<p>Emotional involvement is of pivotal importance when children learn to read, tell, and share stories. This crucial dimension of cultural literacy has received surprisingly little attention within literary studies, psychology, and digital humanities. Taking a large-scale and data-driven approach, the most promising method to assess emotional information in children’s reading material is sentiment analysis. It allows the analysis of larger text corpora to find verbal emotional patterns potentially guiding young readers’ affective-aesthetic responses to literary texts – to characters, events, narrator/voice, and poem lines. Consequently, it facilitates modeling the role of emotions in the interaction of emerging literary literacy and social-cognitive development.</p>
+
+<p>However, standard sentiment analysis tools were developed in the (industry-driven) framework of opinion mining and need domain-adaptation to literary discourse. Also, disconnected from psychological THEORIES, they often encode models of affect, emotion, and mood that are psychologically questionable, and lack empirical cross-validation. In (digital) literary studies, only a very small number of studies applies sentiment analysis to children’s literature. Most importantly, standard sentiment analysis outside the scope of children’s literature does not assess aesthetic and indirectly communicated feelings. Consequently, its application to literary texts in general and particularly to children’s literature has conceptual and methodological limitations, specifically for historical, non-English, and highly AESTHETIC texts.</p>
+
+<p>We propose to advance sentiment analysis of literary texts for young readers in three ways:</p>
+
+<p>1) by building a representative and balanced corpus of children’s literature from different literary epochs and across a variety of genres,</p>
+
+<p>2) by using this corpus for a domain adaptation of sentiment analysis for literary texts that is also pioneering within NLP for its psychologically approved modeling of AFFECTS and aesthetic feelings, and</p>
+
+<p>3) by testing the validity of these tools via predicting and assessing children’s reading experience and behavior.</p>
+
+<p>The research is motivated by the theoretical frameworks of social-interactive theory of narrative learning, the Neurocognitive Poetics Model of literary reading (https://www.researchgate.net/project/Neurocognitive-Poetics), and a systematic and historical philological account of situated emotion-cognition in children’s literature.</p>
+
+<p>* Long title: Advanced sentiment analysis for understanding affective-aesthetic responses to literary texts: A computational and experimental psychology approach to children’s literature</p>
+
+:ET

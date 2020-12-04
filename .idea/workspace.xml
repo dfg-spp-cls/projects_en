@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="updating about">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="gh-pages" />
+                    <option name="lastUsedInstant" value="1605532032" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1605532031" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="1f412dbf-e3ff-43eb-8528-8e3e321b873c" />
+  <component name="ProjectId" id="1kNCsNAuoO4uHZVGgl2mSE8peYV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="C:\Users\sib27sm\PycharmProjects\projects_en\node_modules\stylelint" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sib27sm\PycharmProjects\projects_en" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="" />
+      <created>1605531867471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605531867471</updated>
+      <workItem from="1605531868594" duration="41000" />
+      <workItem from="1605532024662" duration="3580000" />
+      <workItem from="1605565479870" duration="156000" />
+      <workItem from="1605576997883" duration="59000" />
+      <workItem from="1605821892962" duration="6284000" />
+      <workItem from="1605828262110" duration="809000" />
+      <workItem from="1605830149834" duration="913000" />
+      <workItem from="1606698903271" duration="679000" />
+      <workItem from="1607082982355" duration="332000" />
+    </task>
+    <task id="LOCAL-00001" summary="landing page fixes">
+      <created>1605532619298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605532619298</updated>
+    </task>
+    <task id="LOCAL-00002" summary="landing page fixes">
+      <created>1605533343364</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605533343364</updated>
+    </task>
+    <task id="LOCAL-00003" summary="landing page fixes">
+      <created>1605533486219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605533486219</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixing dates">
+      <created>1605534895417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605534895417</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixing dates">
+      <created>1605536789222</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605536789222</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cleaning">
+      <created>1605822270246</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605822270246</updated>
+    </task>
+    <task id="LOCAL-00007" summary="cleaning">
+      <created>1605822552480</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605822552480</updated>
+    </task>
+    <task id="LOCAL-00008" summary="cleaning">
+      <created>1605822733771</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605822733771</updated>
+    </task>
+    <task id="LOCAL-00009" summary="not yet another layout fix">
+      <created>1605823165925</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605823165925</updated>
+    </task>
+    <task id="LOCAL-00010" summary="not yet another layout fix">
+      <created>1605824132831</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605824132831</updated>
+    </task>
+    <task id="LOCAL-00011" summary="not yet another layout fix">
+      <created>1605824160007</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605824160007</updated>
+    </task>
+    <task id="LOCAL-00012" summary="not yet another layout fix">
+      <created>1605824744727</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605824744727</updated>
+    </task>
+    <task id="LOCAL-00013" summary="not yet another layout fix">
+      <created>1605824953753</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605824953753</updated>
+    </task>
+    <task id="LOCAL-00014" summary="not yet another layout fix">
+      <created>1605824970970</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605824970970</updated>
+    </task>
+    <task id="LOCAL-00015" summary="not yet another layout fix">
+      <created>1605826111501</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605826111501</updated>
+    </task>
+    <task id="LOCAL-00016" summary="not yet another layout fix">
+      <created>1605828642675</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605828642675</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fixing linking">
+      <created>1605830222202</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605830222202</updated>
+    </task>
+    <task id="LOCAL-00018" summary="adding layouts">
+      <created>1605830401663</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605830401663</updated>
+    </task>
+    <task id="LOCAL-00019" summary="updating about">
+      <created>1607083038185</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607083038185</updated>
+    </task>
+    <task id="LOCAL-00020" summary="updating about">
+      <created>1607083101616</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607083101616</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="landing page fixes" />
+    <MESSAGE value="fixing dates" />
+    <MESSAGE value="cleaning" />
+    <MESSAGE value="not yet another layout fix" />
+    <MESSAGE value="fixing linking" />
+    <MESSAGE value="adding layouts" />
+    <MESSAGE value="updating about" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating about" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="67" key="SettingsEditor" timestamp="1606698980648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="297" y="67" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606698980648" />
+    <state x="341" y="155" key="Vcs.Push.Dialog.v2" timestamp="1605828646372">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="155" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605828646372" />
+  </component>
+</project>
