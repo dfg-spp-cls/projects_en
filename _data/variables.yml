@@ -1,10 +1,10 @@
 default:
-  text_skin: orange
+  text_skin: default
   highlight_theme: default
   lang: en
   paths:
-    root: /
-    home: /
+    root:
+    home: https://dfg-spp-cls.github.io/
     #archive:  /archive.html
     rss:  /feed.xml
   mathjax: false
