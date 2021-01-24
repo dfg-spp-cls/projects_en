@@ -19,15 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="cleaning">
-      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="fixing navigation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/variables.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/variables.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/skins/_orange.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/skins/_orange.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/skins/highlight/tomorrow/_default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/skins/highlight/tomorrow/_default.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +82,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
@@ -127,7 +122,10 @@
       <workItem from="1605830149834" duration="913000" />
       <workItem from="1606698903271" duration="679000" />
       <workItem from="1607082982355" duration="1635000" />
-      <workItem from="1610983308711" duration="3004000" />
+      <workItem from="1610983308711" duration="3325000" />
+      <workItem from="1610986653603" duration="601000" />
+      <workItem from="1611516292622" duration="65000" />
+      <workItem from="1611516621371" duration="174000" />
     </task>
     <task id="LOCAL-00001" summary="landing page fixes">
       <created>1605532619298</created>
@@ -283,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607083763398</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="fixing navigation">
+      <created>1610986399702</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1610986399702</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,6 +315,7 @@
     <MESSAGE value="adding layouts" />
     <MESSAGE value="updating about" />
     <MESSAGE value="cleaning" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleaning" />
+    <MESSAGE value="fixing navigation" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing navigation" />
   </component>
 </project>
