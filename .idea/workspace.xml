@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="fixing navigation">
+    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="updating links">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,7 @@
       <workItem from="1610983308711" duration="3325000" />
       <workItem from="1610986653603" duration="601000" />
       <workItem from="1611516292622" duration="65000" />
-      <workItem from="1611516621371" duration="174000" />
+      <workItem from="1611516621371" duration="1859000" />
     </task>
     <task id="LOCAL-00001" summary="landing page fixes">
       <created>1605532619298</created>
@@ -288,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610986399702</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="updating links">
+      <created>1611516818782</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1611516818782</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +322,7 @@
     <MESSAGE value="updating about" />
     <MESSAGE value="cleaning" />
     <MESSAGE value="fixing navigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing navigation" />
+    <MESSAGE value="updating links" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating links" />
   </component>
 </project>
