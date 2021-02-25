@@ -19,30 +19,30 @@ In order to understand and interpret texts, not only the information contained i
 
 - Anke Holler:
   - anke.holler@phil.uni-goettingen.de
-  - [https://www.uni-goettingen.de/de/67028.html](https://www.uni-goettingen.de/de/67028.html) hinter Stichwort „Website“
+  - [Website](https://www.uni-goettingen.de/de/67028.html)
 - Benjamin Gittel:
   - benjamin.gittel@uni-goettingen.de
-  - [https://www.uni-goettingen.de/de/582293.html](https://www.uni-goettingen.de/de/582293.html)  hinter Stichwort „Website“
+  - [Website](https://www.uni-goettingen.de/de/582293.html)
 - Caroline Sporleder
   - caroline.sporleder@cs.uni-goettingen.de
-  - [https://www.uni-goettingen.de/de/597865.html](https://www.uni-goettingen.de/de/597865.html) hinter Stichwort „Website“
+  - [Website](https://www.uni-goettingen.de/de/597865.html)
 - Florian Barth
   - barth@sub.uni-goettingen.de
 - Tillmann Dönicke
   - tillmann.doenicke@uni-goettingen.de
-  - [https://www.gcdh.de/en/people/personenseiten/tillmann-doenicke/](https://www.gcdh.de/en/people/personenseiten/tillmann-doenicke/) hinter Stichwort “Website”
+  - [Website](https://www.gcdh.de/en/people/personenseiten/tillmann-doenicke/)
 - Luisa Gödeke
   - luisa.goedeke@uni-goettingen.de
-  - [https://www.uni-goettingen.de/de/gödeke%2c+luisa%2c+m.a./626618.html](https://www.uni-goettingen.de/de/gödeke%2c+luisa%2c+m.a./626618.html) hinter Stichwort „Website“
+  - [Website](https://www.uni-goettingen.de/de/gödeke%2c+luisa%2c+m.a./626618.html)
 - Anna Mareike Hofmann
   - annamareike.hofmann@uni-goettingen.de
-  - [https://www.uni-goettingen.de/de/hofmann%2c+anna%2c+m.a./626208.html](https://www.uni-goettingen.de/de/hofmann%2c+anna%2c+m.a./626208.html) hinter Stichwort „Website“
+  - [Website](https://www.uni-goettingen.de/de/hofmann%2c+anna%2c+m.a./626208.html)
 - Hanna Varachkina
   - hanna.varachkina@stud.uni-goettingen.de
 
 ## Project Plan – Overview
 - Elaborating and formalising a comprehensive concept of reflective passage
 - Identifying and classifying such reflective passages in narrative fiction 
-- aiming at explaining their patterns of occurrence in roughly 350 years of literary history
-- developing novel computational models for detecting reflection and related phenomena, e.g. overt-narrator-passages and free-indirect discourse 
+- Aiming at explaining their patterns of occurrence in roughly 350 years of literary history
+- Developing novel computational models for detecting reflection and related phenomena, e.g. overt-narrator-passages and free-indirect discourse 
 - creating and releasing a corpus manually annotated for reflection
