@@ -39,3 +39,10 @@ In order to understand and interpret texts, not only the information contained i
   - [https://www.uni-goettingen.de/de/hofmann%2c+anna%2c+m.a./626208.html](https://www.uni-goettingen.de/de/hofmann%2c+anna%2c+m.a./626208.html) hinter Stichwort „Website“
 - Hanna Varachkina
   - hanna.varachkina@stud.uni-goettingen.de
+
+## Project Plan – Overview
+- Elaborating and formalising a comprehensive concept of reflective passage
+- Identifying and classifying such reflective passages in narrative fiction 
+- aiming at explaining their patterns of occurrence in roughly 350 years of literary history
+- developing novel computational models for detecting reflection and related phenomena, e.g. overt-narrator-passages and free-indirect discourse 
+- creating and releasing a corpus manually annotated for reflection
