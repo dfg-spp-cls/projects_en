@@ -45,4 +45,4 @@ In order to understand and interpret texts, not only the information contained i
 - Identifying and classifying such reflective passages in narrative fiction 
 - Aiming at explaining their patterns of occurrence in roughly 350 years of literary history
 - Developing novel computational models for detecting reflection and related phenomena, e.g. overt-narrator-passages and free-indirect discourse 
-- creating and releasing a corpus manually annotated for reflection
+- Creating and releasing a corpus manually annotated for reflection
