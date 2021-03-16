@@ -6,6 +6,7 @@ category: project
 ---
 
 ***Christof Schöch, Keli Du, Julia Dudar, Cora Rok***
+
 [Our homepage](https://zeta-project.eu/en/)
 
 The methodological and epistemological paradigm of comparison is deeply rooted in the Humanities. Whether in qualitative or quantitative research, comparison allows to determine similarities and differences as well as affinities and contrasts; it thereby sharpens the analyst’s eye and adds specificity and meaningfulness to analyses. Against this backdrop, the purpose of Zeta and Company is to enhance our understanding of and propose improvements to quantitative, comparative methods of analysis of two or more collections of texts in the domain of Computational Literary Studies.
