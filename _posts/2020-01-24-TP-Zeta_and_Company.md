@@ -5,7 +5,8 @@ modified: 2/24/2020, 9:00:24
 category: project
 ---
 
-***Christof Schöch***
+***Christof Schöch, Keli Du, Julia Dudar, Cora Rok***
+[Our homepage](https://zeta-project.eu/en/)
 
 The methodological and epistemological paradigm of comparison is deeply rooted in the Humanities. Whether in qualitative or quantitative research, comparison allows to determine similarities and differences as well as affinities and contrasts; it thereby sharpens the analyst’s eye and adds specificity and meaningfulness to analyses. Against this backdrop, the purpose of Zeta and Company is to enhance our understanding of and propose improvements to quantitative, comparative methods of analysis of two or more collections of texts in the domain of Computational Literary Studies.
 The focus will be on a key method in such comparative analyses, that of using statistical measures of distinctiveness that allow researchers to extract features (e.g. words or parts-of-speech) that are characteristic of a given group of texts when compared to another group of texts. In areas as diverse as Information Retrieval, Computational Linguistics and Computational Literary Studies, a wide range of statistical measures of distinctiveness have been developed for the fundamental task of identifying distinctive features. Three broad types of measures can be distinguished, each using quite distinct information for their calculations. The first type of measures takes as input the observed relative frequencies of the features in each of the two groups of texts taken together and compares them (e.g. log-likelihood test). The second type takes as input frequency distributions of the features built from each individual text in the two groups of texts (e.g. t-test). The third type takes as input the dispersion of the features across the texts in each group, that is, compares how equally distributed the features are across each group of texts (e.g. Zeta).
