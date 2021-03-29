@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
-      <change afterPath="$PROJECT_DIR$/_includes/lang-switcher.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/lang-switcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/lang-switcher.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +103,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sib27sm\PycharmProjects\projects_en\_includes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sib27sm\PycharmProjects\projects_en" />
     </key>
@@ -130,7 +133,8 @@
       <workItem from="1611516621371" duration="1859000" />
       <workItem from="1611575975396" duration="181000" />
       <workItem from="1613233149114" duration="21000" />
-      <workItem from="1617045456394" duration="1087000" />
+      <workItem from="1617045456394" duration="1098000" />
+      <workItem from="1617047805307" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="landing page fixes">
       <created>1605532619298</created>
@@ -321,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617046276637</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="multilingual">
+      <created>1617046549198</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1617046549198</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
