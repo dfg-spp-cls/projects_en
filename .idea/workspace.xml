@@ -19,48 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="updating links">
-      <change afterPath="$PROJECT_DIR$/_data/de/l10n.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/en/l10n.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Anomaly-based_large-scale_analysis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Beginnings_of_Poetry.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-CHYLSA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Caution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Emotions_in_Drama.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-EvENT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-QTrack.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Relating_the_Unread.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Structuring_Literature.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-What_matters.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Zeta_and_Company.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Anomaly-based_large-scale_analysis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Beginnings_of_Poetry.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-CHYLSA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Caution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Emotions_in_Drama.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-EvENT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-QTrack.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Relating_the_Unread.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Structuring_Literature.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-What_matters.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Zeta_and_Company.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_01_2021_21_01_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_01_2021_21_01__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-TP-Anomaly-based_large-scale_analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-TP-Beginnings_of_Poetry.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-TP-CHYLSA.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-TP-Caution.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-TP-Emotions_in_Drama.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-TP-EvENT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-TP-QTrack.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-TP-Relating_the_Unread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-TP-Structuring_Literature.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-TP-What_matters.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-TP-Zeta_and_Company.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/variables.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/variables.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +129,7 @@
       <workItem from="1611516621371" duration="1859000" />
       <workItem from="1611575975396" duration="181000" />
       <workItem from="1613233149114" duration="21000" />
-      <workItem from="1617045456394" duration="434000" />
+      <workItem from="1617045456394" duration="786000" />
     </task>
     <task id="LOCAL-00001" summary="landing page fixes">
       <created>1605532619298</created>
@@ -345,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611576132233</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="multilingual">
+      <created>1617045907081</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1617045907081</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,6 +354,7 @@
     <MESSAGE value="cleaning" />
     <MESSAGE value="fixing navigation" />
     <MESSAGE value="updating links" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating links" />
+    <MESSAGE value="multilingual" />
+    <option name="LAST_COMMIT_MESSAGE" value="multilingual" />
   </component>
 </project>

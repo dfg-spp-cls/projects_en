@@ -4,7 +4,7 @@ default:
   lang: en
   paths:
     root:
-    home: https://dfg-spp-cls.github.io/
+    home: https://dfg-spp-cls.github.io
     #archive:  /archive.html
     rss:  /feed.xml
   mathjax: false
