@@ -1,8 +1,8 @@
 ---
 title: The beginnings of modern poetry - Modeling literary history with text similarities
 excerpt: "Simone Winko & Fotis Jannidis"
-modified: 2/24/2020, 9:00:24
-category: project
+lang: en
+
 ---
 
 ***Simone Winko & Fotis Jannidis***

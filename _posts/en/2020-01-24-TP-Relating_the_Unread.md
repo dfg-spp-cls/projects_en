@@ -1,7 +1,8 @@
 ---
 title: Relating the Unread - Network Models in Literary History
 excerpt: "Ulrik Brandes & Thomas Weitin"
-modified: 2/24/2020, 9:00:24
+lang: en
+
 ---
 
 ***Ulrik Brandes & Thomas Weitin***

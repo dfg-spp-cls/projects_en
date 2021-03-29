@@ -1,8 +1,8 @@
 ---
 title: Computer-aided Analysis of Unreliability and Truth in Fiction – Interconnecting and Operationalizing Narratology (CAUTION)
 excerpt: "Jonas Kuhn & Janina Jacke"
-modified: 2/24/2020, 9:00:24
-category: project
+lang: en
+
 ---
 
 ***Jonas Kuhn & Janina Jacke***

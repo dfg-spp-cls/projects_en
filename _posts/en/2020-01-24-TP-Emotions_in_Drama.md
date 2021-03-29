@@ -1,8 +1,8 @@
 ---
 title: Emotions in Drama
 excerpt: "Christian Wolff & Katrin Dennerlein"
-modified: 2/24/2020, 9:00:24
-category: project
+lang: en
+
 ---
 
 ***Christian Wolff & Katrin Dennerlein***

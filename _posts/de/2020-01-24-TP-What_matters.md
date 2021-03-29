@@ -1,7 +1,8 @@
 ---
-title: Was ist wichtig? Schlüsselstellen in der Literatur (in German)
+title: Was ist wichtig? Schlüsselstellen in der Literatur
 excerpt: "Robert Jäschke & Steffen Martus"
-modified: 2/24/2020, 9:00:24
+lang: de
+
 ---
 
 ***Robert Jäschke & Steffen Martus***
