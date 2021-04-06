@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/variables.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/variables.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/de/l10n.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/de/l10n.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/en/l10n.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/en/l10n.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/lang-switcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/lang-switcher.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,14 +138,7 @@
       <workItem from="1617047805307" duration="1237000" />
       <workItem from="1617362272752" duration="1235000" />
       <workItem from="1617719603528" duration="1438000" />
-      <workItem from="1617730887979" duration="5343000" />
-    </task>
-    <task id="LOCAL-00004" summary="fixing dates">
-      <created>1605534895417</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1605534895417</updated>
+      <workItem from="1617730887979" duration="7902000" />
     </task>
     <task id="LOCAL-00005" summary="fixing dates">
       <created>1605536789222</created>
@@ -482,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617736130945</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="multilingual">
+      <created>1617736244779</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1617736244779</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
