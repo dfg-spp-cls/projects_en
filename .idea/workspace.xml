@@ -19,19 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_03_2021_22_24_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_03_2021_22_24__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/de/l10n.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/de/l10n.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/en/l10n.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/en/l10n.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/variables.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/variables.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/lang-switcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/lang-switcher.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-    </list>
+    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +32,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -146,7 +133,7 @@
       <workItem from="1617047805307" duration="1237000" />
       <workItem from="1617362272752" duration="1235000" />
       <workItem from="1617719603528" duration="1438000" />
-      <workItem from="1617730887979" duration="4228000" />
+      <workItem from="1617730887979" duration="4579000" />
     </task>
     <task id="LOCAL-00001" summary="landing page fixes">
       <created>1605532619298</created>
@@ -386,7 +373,91 @@
       <option name="project" value="LOCAL" />
       <updated>1617049774421</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="multilingual">
+      <created>1617735151981</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735151981</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Revert &quot;Delete 2020-01-24-TP-Zeta_and_Company.md&quot;&#10;&#10;This reverts commit 8235ce24">
+      <created>1617735371512</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735371512</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Revert &quot;Delete 2020-01-24-TP-What_matters.md&quot;&#10;&#10;This reverts commit 7d383ec4">
+      <created>1617735384638</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735384638</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Revert &quot;Delete 2020-01-24-TP-Structuring_Literature.md&quot;&#10;&#10;This reverts commit 4b76ea6a">
+      <created>1617735390070</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735390070</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Revert &quot;Delete 2020-01-24-TP-Relating_the_Unread.md&quot;&#10;&#10;This reverts commit bc089d62">
+      <created>1617735397419</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735397419</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Revert &quot;Delete 2020-01-24-TP-QTrack.md&quot;&#10;&#10;This reverts commit 98fba3b2">
+      <created>1617735406541</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735406541</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Revert &quot;Delete 2020-01-24-TP-EvENT.md&quot;&#10;&#10;This reverts commit 8e79d25d">
+      <created>1617735414901</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735414901</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Revert &quot;Delete 2020-01-24-TP-Emotions_in_Drama.md&quot;&#10;&#10;This reverts commit 53123b22">
+      <created>1617735420083</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735420083</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Revert &quot;Delete 2020-01-24-TP-Caution.md&quot;&#10;&#10;This reverts commit f0375f6a">
+      <created>1617735426421</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735426421</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Revert &quot;Delete 2020-01-24-TP-CHYLSA.md&quot;&#10;&#10;This reverts commit 4c9abc90">
+      <created>1617735432124</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735432124</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Revert &quot;Delete 2020-01-24-TP-Beginnings_of_Poetry.md&quot;&#10;&#10;This reverts commit 058bce60">
+      <created>1617735437897</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735437897</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Revert &quot;Delete 2020-01-24-TP-Anomaly-based_large-scale_analysis.md&quot;&#10;&#10;This reverts commit 91a6427d">
+      <created>1617735444202</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735444202</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,6 +499,17 @@
     <MESSAGE value="fixing navigation" />
     <MESSAGE value="updating links" />
     <MESSAGE value="multilingual" />
-    <option name="LAST_COMMIT_MESSAGE" value="multilingual" />
+    <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Zeta_and_Company.md&quot;&#10;&#10;This reverts commit 8235ce24" />
+    <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-What_matters.md&quot;&#10;&#10;This reverts commit 7d383ec4" />
+    <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Structuring_Literature.md&quot;&#10;&#10;This reverts commit 4b76ea6a" />
+    <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Relating_the_Unread.md&quot;&#10;&#10;This reverts commit bc089d62" />
+    <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-QTrack.md&quot;&#10;&#10;This reverts commit 98fba3b2" />
+    <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-EvENT.md&quot;&#10;&#10;This reverts commit 8e79d25d" />
+    <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Emotions_in_Drama.md&quot;&#10;&#10;This reverts commit 53123b22" />
+    <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Caution.md&quot;&#10;&#10;This reverts commit f0375f6a" />
+    <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-CHYLSA.md&quot;&#10;&#10;This reverts commit 4c9abc90" />
+    <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Beginnings_of_Poetry.md&quot;&#10;&#10;This reverts commit 058bce60" />
+    <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Anomaly-based_large-scale_analysis.md&quot;&#10;&#10;This reverts commit 91a6427d" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Delete 2020-01-24-TP-Anomaly-based_large-scale_analysis.md&quot;&#10;&#10;This reverts commit 91a6427d" />
   </component>
 </project>
