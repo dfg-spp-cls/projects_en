@@ -3,8 +3,8 @@ default:
   highlight_theme: default
   lang: en
   paths:
-    root:
-    #home: https://dfg-spp-cls.github.io/projects_en
+    root: https://dfg-spp-cls.github.io/projects_en
+    home: https://dfg-spp-cls.github.io
     #archive:  /archive.html
     #rss:  /feed.xml
   mathjax: false
