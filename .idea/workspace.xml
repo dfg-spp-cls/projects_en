@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual" />
+    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +135,7 @@
       <workItem from="1617047805307" duration="1237000" />
       <workItem from="1617362272752" duration="1235000" />
       <workItem from="1617719603528" duration="1438000" />
-      <workItem from="1617730887979" duration="4579000" />
+      <workItem from="1617730887979" duration="4675000" />
     </task>
     <task id="LOCAL-00001" summary="landing page fixes">
       <created>1605532619298</created>
@@ -457,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617735444202</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="multilingual">
+      <created>1617735475547</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1617735475547</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +507,6 @@
     <MESSAGE value="cleaning" />
     <MESSAGE value="fixing navigation" />
     <MESSAGE value="updating links" />
-    <MESSAGE value="multilingual" />
     <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Zeta_and_Company.md&quot;&#10;&#10;This reverts commit 8235ce24" />
     <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-What_matters.md&quot;&#10;&#10;This reverts commit 7d383ec4" />
     <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Structuring_Literature.md&quot;&#10;&#10;This reverts commit 4b76ea6a" />
@@ -510,6 +518,7 @@
     <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-CHYLSA.md&quot;&#10;&#10;This reverts commit 4c9abc90" />
     <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Beginnings_of_Poetry.md&quot;&#10;&#10;This reverts commit 058bce60" />
     <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Anomaly-based_large-scale_analysis.md&quot;&#10;&#10;This reverts commit 91a6427d" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Delete 2020-01-24-TP-Anomaly-based_large-scale_analysis.md&quot;&#10;&#10;This reverts commit 91a6427d" />
+    <MESSAGE value="multilingual" />
+    <option name="LAST_COMMIT_MESSAGE" value="multilingual" />
   </component>
 </project>
