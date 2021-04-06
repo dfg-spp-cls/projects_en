@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://dfg-spp-cls.github.io/projects_en # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Computational Literary Studies (CLS)
 description: # this means to ignore newlines until "Language & timezone"
@@ -27,7 +27,7 @@ description: # this means to ignore newlines until "Language & timezone"
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: en # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
@@ -55,15 +55,15 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: dfg-spp-cls/dfg-spp-cls.github.io/projects_en
+repository: dfg-spp-cls/projects_en
 repository_tree: master
 
 
 ## => Paths
 ##############################
 paths:
-  root    : / # title link url, "/" (default)
-  home    : https://dfg-spp-cls.github.io/projects_en # home layout url, "/" (default)
+  root    : # title link url, "/" (default)
+  home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
@@ -181,7 +181,7 @@ analytics:
 ##############################
 markdown    : kramdown
 highlighter : rouge
-permalink   : date
+permalink   : pretty
 
 exclude:
   - CHANGELOG.md
@@ -231,9 +231,9 @@ encoding: utf-8
 
 ## => Multilanguage Polyglot
 ##############################
-languages: ["en", "de"]
+languages: ["en","de"]
 default_lang: "en"
-exclude_from_localization: ["assets/css", "assets/img"]
+exclude_from_localization: ["javascript", "images", "css", "README.md"]
 parallel_localization: false
 
 sass:

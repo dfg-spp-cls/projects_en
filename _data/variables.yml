@@ -4,9 +4,9 @@ default:
   lang: en
   paths:
     root:
-    home: https://dfg-spp-cls.github.io/projects_en
+    #home: https://dfg-spp-cls.github.io/projects_en
     #archive:  /archive.html
-    rss:  /feed.xml
+    #rss:  /feed.xml
   mathjax: false
   mathjax_autoNumber: false
   mermaid: false
