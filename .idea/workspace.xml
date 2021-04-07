@@ -22,6 +22,7 @@
     <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
       <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/jekyll.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/lang-switcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/lang-switcher.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,14 +139,7 @@
       <workItem from="1617362272752" duration="1235000" />
       <workItem from="1617719603528" duration="1438000" />
       <workItem from="1617730887979" duration="9184000" />
-      <workItem from="1617740463225" duration="7135000" />
-    </task>
-    <task id="LOCAL-00018" summary="adding layouts">
-      <created>1605830401663</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1605830401663</updated>
+      <workItem from="1617740463225" duration="7542000" />
     </task>
     <task id="LOCAL-00019" summary="updating about">
       <created>1607083038185</created>
@@ -483,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617803140079</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="multilingual">
+      <created>1617803660155</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1617803660155</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
