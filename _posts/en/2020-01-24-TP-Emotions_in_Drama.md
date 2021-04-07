@@ -24,12 +24,13 @@ Having done all this work we should be able to identify pathos-strategies, id es
       <li>katrin.dennerlein@uni-wuerzburg.de</li>
       <li><a href="https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/mitarbeiter/dennerlein/">Webseite</a></li>
   </ul>
-  <li>Thomas Schmidt:<li>
+  <li>Thomas Schmidt:</li>
     <ul>
       <li>thomas.schmidt@ur.de</li>
       <li>Twitter: <a href="https://twitter.com/thomasS_UniR">@thomasS_UniR</a></li>
       <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html">Webseite</a></li>
     </ul>
+  </ul>
   
 <h2>Tasks/Project Plan - Overview</h2>
 <ul>
