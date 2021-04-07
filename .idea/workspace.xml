@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/jekyll.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,14 +137,7 @@
       <workItem from="1617362272752" duration="1235000" />
       <workItem from="1617719603528" duration="1438000" />
       <workItem from="1617730887979" duration="9184000" />
-      <workItem from="1617740463225" duration="1039000" />
-    </task>
-    <task id="LOCAL-00013" summary="not yet another layout fix">
-      <created>1605824953753</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1605824953753</updated>
+      <workItem from="1617740463225" duration="5011000" />
     </task>
     <task id="LOCAL-00014" summary="not yet another layout fix">
       <created>1605824970970</created>
@@ -481,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617741211568</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="multilingual">
+      <created>1617741509187</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1617741509187</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
