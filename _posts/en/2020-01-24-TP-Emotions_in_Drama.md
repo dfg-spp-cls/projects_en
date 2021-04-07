@@ -18,7 +18,7 @@ Having done all this work we should be able to identify pathos-strategies, id es
       <li>christian.wolff@ur.de</li>
       <li>Twitter: <a href="https://twitter.com/chriswolff">@chriswolff</a></li>
       <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/christian-wolff/">Webseite</a></li>
-    </ul>
+  </ul>
   <li>Katrin Dennerlein:</li>
     <ul>
       <li>katrin.dennerlein@uni-wuerzburg.de</li>
@@ -30,7 +30,7 @@ Having done all this work we should be able to identify pathos-strategies, id es
       <li>Twitter: <a href="https://twitter.com/thomasS_UniR">@thomasS_UniR</a></li>
       <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html">Webseite</a></li>
     </ul>
-  </ul>
+</ul>
   
 <h2>Tasks/Project Plan - Overview</h2>
 <ul>
@@ -59,5 +59,9 @@ Having done all this work we should be able to identify pathos-strategies, id es
       <li><a href="https://fdhl.info/wp-content/uploads/2020/12/Poster_DINA4.pdf">Poster (in German)</a></li>
       <li><a href="https://youtu.be/9DdybUzN92E">Video for the Poster Slam (in German)</a></li>
   </ul>
- <li> We will participate at the workshop "Sentiment Analysis in Literary Studies" at the University of Graz in February 2021. More information will follow on <a href="https://informationsmodellierung.uni-graz.at/de/neuigkeiten/detail/article/call-sentiment-analysis-in-literary-studies-2021/">this page</a></li>
+  <li>Keynote at the workshop "Sentiment Analysis in Literary Studies" at the University of Graz in February 2021.</li>
+  <ul>
+    <li><a href="https://informationsmodellierung.uni-graz.at/de/institut/veranstaltungen/sentiment-analysis-in-literary-studies-2021/">More Information about the workshop</a></li>
+    <li><a href="https://youtu.be/WvJ8BvaSJCw">Link to the Keynote: Annotating and quantifying sentiment and emotions in German plays from around 1800</a></li>
+  </ul>
  </ul>
