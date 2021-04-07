@@ -52,6 +52,11 @@ Having done all this work we should be able to identify pathos-strategies, id es
 <h2>Further Material:</h2>
 
 <ul>
+  <li>Keynote at the workshop "Sentiment Analysis in Literary Studies" at the University of Graz in February 2021.</li>
+  <ul>
+    <li><a href="https://informationsmodellierung.uni-graz.at/de/institut/veranstaltungen/sentiment-analysis-in-literary-studies-2021/">More Information about the workshop</a></li>
+    <li><a href="https://youtu.be/WvJ8BvaSJCw">Video to the Keynote: Annotating and quantifying sentiment and emotions in German plays from around 1800</a></li>
+  </ul>
   <li><a href="https://www.uni-wuerzburg.de/fileadmin/uniwue/Presse/EinBLICK/2020/PDFs/ar202023.pdf">Official Press Release (in German)</a></li>
   <li>Participation at the Digital Humanities Day in Leipzig</li>
     <ul>
@@ -59,9 +64,5 @@ Having done all this work we should be able to identify pathos-strategies, id es
       <li><a href="https://fdhl.info/wp-content/uploads/2020/12/Poster_DINA4.pdf">Poster (in German)</a></li>
       <li><a href="https://youtu.be/9DdybUzN92E">Video for the Poster Slam (in German)</a></li>
   </ul>
-  <li>Keynote at the workshop "Sentiment Analysis in Literary Studies" at the University of Graz in February 2021.</li>
-  <ul>
-    <li><a href="https://informationsmodellierung.uni-graz.at/de/institut/veranstaltungen/sentiment-analysis-in-literary-studies-2021/">More Information about the workshop</a></li>
-    <li><a href="https://youtu.be/WvJ8BvaSJCw">Video to the Keynote: Annotating and quantifying sentiment and emotions in German plays from around 1800</a></li>
-  </ul>
+  
  </ul>
