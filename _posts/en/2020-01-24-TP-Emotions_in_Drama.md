@@ -61,6 +61,6 @@ Having done all this work we should be able to identify pathos-strategies, id es
   <li>Keynote at the workshop "Sentiment Analysis in Literary Studies" at the University of Graz in February 2021.</li>
   <ul>
     <li><a href="https://informationsmodellierung.uni-graz.at/de/institut/veranstaltungen/sentiment-analysis-in-literary-studies-2021/">More Information about the workshop</a></li>
-    <li><a href="https://youtu.be/WvJ8BvaSJCw">Link to the Keynote: Annotating and quantifying sentiment and emotions in German plays from around 1800</a></li>
+    <li><a href="https://youtu.be/WvJ8BvaSJCw">Video to the Keynote: Annotating and quantifying sentiment and emotions in German plays from around 1800</a></li>
   </ul>
  </ul>
