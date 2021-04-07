@@ -11,11 +11,11 @@ jobs:
       - name: Build the site in the jekyll/builder container
         run: |
           docker run \
-            -v ${{ github.workspace }}:/srv/main -v ${{ github.workspace }}/_site:/srv/main/_site \
-            jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+          jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
       - name: Push the site to the gh-pages branch
         run: |
-          sudo chown $( whoami ):${{ github.workspace }}/_site
+          sudo chown $( whoami ):$( whoami ) ${{ github.workspace }}/_site
           cd ${{ github.workspace }}/_site
           git init -b gh-pages
           git config user.name ${{ github.actor }}
