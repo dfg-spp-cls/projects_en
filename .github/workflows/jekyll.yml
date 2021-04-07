@@ -15,7 +15,7 @@ jobs:
           jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
       - name: Push the site to the gh-pages branch
         run: |
-          sudo chown -R $( whoami ):$( whoami ) ${{ github.workspace }}/_site
+          sudo chown -R $(whoami):$(whoami) ${{ github.workspace }}/_site
           cd ${{ github.workspace }}/_site
           git init -b gh-pages
           git config user.name ${{ github.actor }}
