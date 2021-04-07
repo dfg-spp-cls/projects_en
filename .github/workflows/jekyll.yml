@@ -12,7 +12,7 @@ jobs:
         run: |
           docker run \
           -v ${{ github.workspace }}:/srv/master -v ${{ github.workspace }}/_site:/srv/master/_site \
-          jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+          jekyll/builder:latest /bin/bash -c "chmod 777 /srv/master && jekyll build --future"
       - name: Push the site to the gh-pages branch
         run: |
           sudo chown $( whoami ):$( whoami ) ${{ github.workspace }}/_site
