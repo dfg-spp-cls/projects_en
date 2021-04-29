@@ -48,6 +48,11 @@ Having done all this work we should be able to identify pathos-strategies, id es
     <li>Head of organization: Working Group Drama</li>
   </ul>
   
+<h2>Publications:</h2>
+  <ul>
+    <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2021, accepted). Towards a Corpus of Historical German Plays with Emotion Annotations. In <em>LDK 2021 – 3rd Conference on Language, Data and Knowledge (LDK 2021)</em>. Zaragoza, Spain. </li>
+  <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2021, submitted). Using Deep Neural Networks for Emotion Analysis of 18th/19th century German Plays (Working Title). In <em>vDHD-Sonderband "Fabrikation von Erkenntnis: Experimente in den Digital Humanities"</em>. Melusina Press.</li>
+  </ul>
 
 <h2>Further Material:</h2>
 
