@@ -1,4 +1,4 @@
-ame: Jekyll site CI
+ame: Publish
 
 on:
   push:
