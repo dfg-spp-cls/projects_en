@@ -1,6 +1,11 @@
-
-    {% if page.lang == "en" %}
-        <a href="{{ site.test }}/de{{ page.url }}"> de </a> | <i> en</i>
+{% for lang in site.languages %}
+    {% if lang == site.active_lang %}
+{{ lang }}
     {% else %}
-        <i>de </i>|<a href="{{ site.test }}{{ page.url }}"> en</a>
+        {% if lang == site.default_lang %}
+<a href=" {{ site.test }}{{ page.url }}">{{ lang }} / </a>
+        {% else %}
+<a href="{{ site.test }}/{{ lang }}{{ page.url }}"> / {{ lang }}</a>
+        {% endif %}
     {% endif %}
+{% endfor %}
