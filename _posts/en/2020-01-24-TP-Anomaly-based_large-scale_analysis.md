@@ -2,7 +2,6 @@
 title: Anomaly-based large-scale analysis of style and genre reflected in the use of stylistic devices in medieval literature
 excerpt: "Joachim Denzler & Sophie Marshall"
 lang: en
-
 ---
 
 ***Joachim Denzler & Sophie Marshall***
