@@ -1,19 +1,25 @@
-name: Publish
+ame: Jekyll site CI
+
 on:
   push:
-    branches:
-      - master
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
 jobs:
   build:
+
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - name: Build the site in the jekyll/builder container
-        run: |
-          docker run \
-          -v ${{ github.workspace }}:/srv/master-v ${{ github.workspace }}:/srv/master/_site \
-          jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
-      - name: Push the site to the gh-pages branch
+    - uses: actions/checkout@v2
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/master -v ${{ github.workspace }}/_site:/srv/master/_site \
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/master && master build --future"
+    - name: Push the site to the gh-pages branch
+        if: ${{ github.event_name == 'push' }}
         run: |
           sudo chown $( whoami ):$( whoami ) ${{ github.workspace }}/_site
           cd ${{ github.workspace }}/_site

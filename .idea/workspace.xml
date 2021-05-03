@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
       <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/jekyll.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,14 +142,7 @@
       <workItem from="1619878807571" duration="635000" />
       <workItem from="1619879880558" duration="14000" />
       <workItem from="1620003419957" duration="42000" />
-      <workItem from="1620003575052" duration="4483000" />
-    </task>
-    <task id="LOCAL-00034" summary="multilingual">
-      <created>1617049774421</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1617049774421</updated>
+      <workItem from="1620003575052" duration="4992000" />
     </task>
     <task id="LOCAL-00035" summary="multilingual">
       <created>1617735151981</created>
@@ -486,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620017154843</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="multilingual">
+      <created>1620017265697</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1620017265697</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
