@@ -18,8 +18,8 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://dfg-spp-cls.github.io/ # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
+url     : https://dfg-spp-cls.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
+baseurl : /projects_en # does not include hostname
 title   : Computational Literary Studies (CLS)
 description: # this means to ignore newlines until "Language & timezone"
   The priority programme SPP 2207 Computational Literary Studies (CLS), funded by the German Research Foundation (DFG), is dedicated to developig and establishing innovative computational methods in the field of literary studies
