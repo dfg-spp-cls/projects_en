@@ -19,7 +19,6 @@ jobs:
         -v ${{ github.workspace }}:/srv/master -v ${{ github.workspace }}/_site:/srv/master/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/master && master build --future"
     - name: Push the site to the gh-pages branch
-        if: ${{ github.event_name == 'push' }}
         run: |
           sudo chown $( whoami ):$( whoami ) ${{ github.workspace }}/_site
           cd ${{ github.workspace }}/_site
