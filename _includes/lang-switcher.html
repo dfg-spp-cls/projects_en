@@ -4,9 +4,9 @@
         {{ lang_name }}
     {% else %}
         {% if lang == site.default_lang %}
-<a href="{{ test }}{{ page.url }}">{{ lang_name }}</a>
+<a href="{{ site.test }}{{ page.url }}">{{ lang_name }}</a>
         {% else %}
-<a href="{{ test }}/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
+<a href="{{ site.test }}/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
         {% endif %}
     {% endif %}
 {% endfor %}
