@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/publish.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/publish.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -141,21 +142,7 @@
       <workItem from="1619878807571" duration="635000" />
       <workItem from="1619879880558" duration="14000" />
       <workItem from="1620003419957" duration="42000" />
-      <workItem from="1620003575052" duration="6079000" />
-    </task>
-    <task id="LOCAL-00039" summary="Revert &quot;Delete 2020-01-24-TP-Relating_the_Unread.md&quot;&#10;&#10;This reverts commit bc089d62">
-      <created>1617735397419</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1617735397419</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Revert &quot;Delete 2020-01-24-TP-QTrack.md&quot;&#10;&#10;This reverts commit 98fba3b2">
-      <created>1617735406541</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1617735406541</updated>
+      <workItem from="1620003575052" duration="6840000" />
     </task>
     <task id="LOCAL-00041" summary="Revert &quot;Delete 2020-01-24-TP-EvENT.md&quot;&#10;&#10;This reverts commit 8e79d25d">
       <created>1617735414901</created>
@@ -486,7 +473,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620018244834</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="multilingual">
+      <created>1620018955774</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1620018955774</updated>
+    </task>
+    <task id="LOCAL-00089" summary="multilingual">
+      <created>1620019299005</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1620019299005</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
