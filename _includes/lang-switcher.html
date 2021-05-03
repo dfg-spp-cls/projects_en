@@ -1,16 +1,12 @@
 {% for lang in site.languages %}
-    {% assign lang_name = site.data[lang].l10n.lang_name %}
+{% assign lang = site.data[lang].l10n.lang_name %}
     {% if lang == site.active_lang %}
-        {% if lang == site.default_lang %}
-<a href="{{ site.test }}/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
-        {% else %}
-<a href="{{ site.test }}{{ page.url }}">{{ lang_name }}</a>
-        {% endif %}
+    {{ lang }}
     {% else %}
         {% if lang == site.default_lang %}
-<a href="{{ site.test }}{{ page.url }}">{{ lang_name }}</a>
-        {% else %}
-<a href="{{ site.test }}/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
+            <a href="{{ site.test }}{{ page.url }}">{{ lang }}</a>
+        {% else %} /
+            <a href="{{page.url}}">{{ lang }}</a>
         {% endif %}
     {% endif %}
 {% endfor %}
