@@ -1,9 +1,6 @@
-{% capture link1 %}{{ site.test }}{{ page.url }}{% endcapture %}
-{% capture link2 %}{{ site.test }}/de{{ page.url }}{% endcapture %}
 
-    {% if site.lang == "de" %}
-        <a href="{{ link2 }}">de</a>|<a href="{{ link1 }}">en</a>
-    {% elsif site.lang == "en" %}
-        <a href="{{ link2 }}">de</a>|<a href="{{ link1 }}">en</a>
+    {% if page.lang == "en" %}
+        <a href="{{ site.test }}/de{{ page.url }}"> de </a> | <i> en</i>
+    {% else %}
+        <i>de </i>|<a href="{{ site.test }}{{ page.url }}"> en</a>
     {% endif %}
-
