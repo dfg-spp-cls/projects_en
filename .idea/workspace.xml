@@ -23,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/lang-switcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/lang-switcher.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,14 +143,7 @@
       <workItem from="1619878807571" duration="635000" />
       <workItem from="1619879880558" duration="14000" />
       <workItem from="1620003419957" duration="42000" />
-      <workItem from="1620003575052" duration="2788000" />
-    </task>
-    <task id="LOCAL-00028" summary="multilingual">
-      <created>1617046549198</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1617046549198</updated>
+      <workItem from="1620003575052" duration="3373000" />
     </task>
     <task id="LOCAL-00029" summary="multilingual">
       <created>1617047990055</created>
@@ -489,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620004858704</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="multilingual">
+      <created>1620015582240</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1620015582240</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
