@@ -141,21 +141,7 @@
       <workItem from="1619878807571" duration="635000" />
       <workItem from="1619879880558" duration="14000" />
       <workItem from="1620003419957" duration="42000" />
-      <workItem from="1620003575052" duration="5085000" />
-    </task>
-    <task id="LOCAL-00036" summary="Revert &quot;Delete 2020-01-24-TP-Zeta_and_Company.md&quot;&#10;&#10;This reverts commit 8235ce24">
-      <created>1617735371512</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1617735371512</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Revert &quot;Delete 2020-01-24-TP-What_matters.md&quot;&#10;&#10;This reverts commit 7d383ec4">
-      <created>1617735384638</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1617735384638</updated>
+      <workItem from="1620003575052" duration="5456000" />
     </task>
     <task id="LOCAL-00038" summary="Revert &quot;Delete 2020-01-24-TP-Structuring_Literature.md&quot;&#10;&#10;This reverts commit 4b76ea6a">
       <created>1617735390070</created>
@@ -486,7 +472,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620017777100</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="multilingual">
+      <created>1620017868802</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1620017868802</updated>
+    </task>
+    <task id="LOCAL-00086" summary="multilingual">
+      <created>1620018115202</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1620018115202</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
