@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/jekyll.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,14 +141,7 @@
       <workItem from="1619878807571" duration="635000" />
       <workItem from="1619879880558" duration="14000" />
       <workItem from="1620003419957" duration="42000" />
-      <workItem from="1620003575052" duration="5456000" />
-    </task>
-    <task id="LOCAL-00038" summary="Revert &quot;Delete 2020-01-24-TP-Structuring_Literature.md&quot;&#10;&#10;This reverts commit 4b76ea6a">
-      <created>1617735390070</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1617735390070</updated>
+      <workItem from="1620003575052" duration="6079000" />
     </task>
     <task id="LOCAL-00039" summary="Revert &quot;Delete 2020-01-24-TP-Relating_the_Unread.md&quot;&#10;&#10;This reverts commit bc089d62">
       <created>1617735397419</created>
@@ -486,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620018115202</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="multilingual">
+      <created>1620018244834</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1620018244834</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
