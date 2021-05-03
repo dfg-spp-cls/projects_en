@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/publish.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/publish.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/lang-switcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/lang-switcher.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,21 +143,7 @@
       <workItem from="1619878807571" duration="635000" />
       <workItem from="1619879880558" duration="14000" />
       <workItem from="1620003419957" duration="42000" />
-      <workItem from="1620003575052" duration="6840000" />
-    </task>
-    <task id="LOCAL-00041" summary="Revert &quot;Delete 2020-01-24-TP-EvENT.md&quot;&#10;&#10;This reverts commit 8e79d25d">
-      <created>1617735414901</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1617735414901</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Revert &quot;Delete 2020-01-24-TP-Emotions_in_Drama.md&quot;&#10;&#10;This reverts commit 53123b22">
-      <created>1617735420083</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1617735420083</updated>
+      <workItem from="1620003575052" duration="9531000" />
     </task>
     <task id="LOCAL-00043" summary="Revert &quot;Delete 2020-01-24-TP-Caution.md&quot;&#10;&#10;This reverts commit f0375f6a">
       <created>1617735426421</created>
@@ -487,7 +474,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620019299005</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="multilingual">
+      <created>1620019629679</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1620019629679</updated>
+    </task>
+    <task id="LOCAL-00091" summary="multilingual">
+      <created>1620020100568</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1620020100568</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
