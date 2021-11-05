@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="redirect">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Emotions_in_Drama.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Emotions_in_Drama.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,14 +147,7 @@
       <workItem from="1619879880558" duration="14000" />
       <workItem from="1620003419957" duration="42000" />
       <workItem from="1620003575052" duration="15734000" />
-      <workItem from="1636145093007" duration="2222000" />
-    </task>
-    <task id="LOCAL-00058" summary="multilingual">
-      <created>1617740081568</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1617740081568</updated>
+      <workItem from="1636145093007" duration="2847000" />
     </task>
     <task id="LOCAL-00059" summary="multilingual">
       <created>1617740237152</created>
@@ -493,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636146631010</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="redirect">
+      <created>1636147324113</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1636147324113</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
