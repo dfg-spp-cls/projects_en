@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
-      <change beforePath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Emotions_in_Drama.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Emotions_in_Drama.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Emotions_in_Drama.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Emotions_in_Drama.md" afterDir="false" />
+    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="corrections emotions_in_drama">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/publish.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/publish.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,21 +146,7 @@
       <workItem from="1619879880558" duration="14000" />
       <workItem from="1620003419957" duration="42000" />
       <workItem from="1620003575052" duration="15734000" />
-      <workItem from="1636119816403" duration="281000" />
-    </task>
-    <task id="LOCAL-00050" summary="multilingual">
-      <created>1617735876982</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1617735876982</updated>
-    </task>
-    <task id="LOCAL-00051" summary="multilingual">
-      <created>1617735997715</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1617735997715</updated>
+      <workItem from="1636119816403" duration="653000" />
     </task>
     <task id="LOCAL-00052" summary="multilingual">
       <created>1617736130945</created>
@@ -492,7 +477,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620028545560</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="corrections emotions_in_drama">
+      <created>1636120119062</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1636120119062</updated>
+    </task>
+    <task id="LOCAL-00100" summary="corrections emotions_in_drama">
+      <created>1636120274562</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1636120274562</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,6 +544,7 @@
     <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Beginnings_of_Poetry.md&quot;&#10;&#10;This reverts commit 058bce60" />
     <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Anomaly-based_large-scale_analysis.md&quot;&#10;&#10;This reverts commit 91a6427d" />
     <MESSAGE value="multilingual" />
-    <option name="LAST_COMMIT_MESSAGE" value="multilingual" />
+    <MESSAGE value="corrections emotions_in_drama" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrections emotions_in_drama" />
   </component>
 </project>
