@@ -19,9 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="fixing workflow">
+    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="corrections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Emotions_in_Drama.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Emotions_in_Drama.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Emotions_in_Drama.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Emotions_in_Drama.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +75,9 @@
     </option>
   </component>
   <component name="JupyterTrust" id="1f412dbf-e3ff-43eb-8528-8e3e321b873c" />
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="1kNCsNAuoO4uHZVGgl2mSE8peYV" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,6 +107,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -144,20 +151,7 @@
       <workItem from="1619879880558" duration="14000" />
       <workItem from="1620003419957" duration="42000" />
       <workItem from="1620003575052" duration="15734000" />
-    </task>
-    <task id="LOCAL-00053" summary="multilingual">
-      <created>1617736244779</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1617736244779</updated>
-    </task>
-    <task id="LOCAL-00054" summary="multilingual">
-      <created>1617739129580</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1617739129580</updated>
+      <workItem from="1636145093007" duration="348000" />
     </task>
     <task id="LOCAL-00055" summary="multilingual">
       <created>1617739367939</created>
@@ -488,7 +482,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636128313921</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="corrections">
+      <created>1636130465652</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1636130465652</updated>
+    </task>
+    <task id="LOCAL-00103" summary="corrections">
+      <created>1636130566788</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1636130566788</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,6 +551,7 @@
     <MESSAGE value="multilingual" />
     <MESSAGE value="back to normal?" />
     <MESSAGE value="fixing workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing workflow" />
+    <MESSAGE value="corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrections" />
   </component>
 </project>

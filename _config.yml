@@ -225,6 +225,7 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-polyglot
+  - jekyll-redirect-from
 
 ## => Encoding
 ##############################
