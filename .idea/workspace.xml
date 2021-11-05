@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="multilingual">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/lang-switcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/lang-switcher.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Emotions_in_Drama.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Emotions_in_Drama.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Emotions_in_Drama.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Emotions_in_Drama.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,9 @@
     </option>
   </component>
   <component name="JupyterTrust" id="1f412dbf-e3ff-43eb-8528-8e3e321b873c" />
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="1kNCsNAuoO4uHZVGgl2mSE8peYV" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -100,6 +103,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -143,6 +147,7 @@
       <workItem from="1619879880558" duration="14000" />
       <workItem from="1620003419957" duration="42000" />
       <workItem from="1620003575052" duration="15734000" />
+      <workItem from="1636119816403" duration="281000" />
     </task>
     <task id="LOCAL-00050" summary="multilingual">
       <created>1617735876982</created>
