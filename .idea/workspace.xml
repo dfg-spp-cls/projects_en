@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="update workflow">
+    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="back to normal?">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Emotions_in_Drama.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/de/2020-01-24-TP-Emotions_in_Drama.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Emotions_in_Drama.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2020-01-24-TP-Emotions_in_Drama.md" afterDir="false" />
     </list>
@@ -144,13 +145,6 @@
       <workItem from="1619879880558" duration="14000" />
       <workItem from="1620003419957" duration="42000" />
       <workItem from="1620003575052" duration="15734000" />
-    </task>
-    <task id="LOCAL-00050" summary="multilingual">
-      <created>1617735876982</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1617735876982</updated>
     </task>
     <task id="LOCAL-00051" summary="multilingual">
       <created>1617735997715</created>
@@ -488,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620028545560</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="back to normal?">
+      <created>1636126883928</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1636126883928</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,6 +542,7 @@
     <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Beginnings_of_Poetry.md&quot;&#10;&#10;This reverts commit 058bce60" />
     <MESSAGE value="Revert &quot;Delete 2020-01-24-TP-Anomaly-based_large-scale_analysis.md&quot;&#10;&#10;This reverts commit 91a6427d" />
     <MESSAGE value="multilingual" />
-    <option name="LAST_COMMIT_MESSAGE" value="multilingual" />
+    <MESSAGE value="back to normal?" />
+    <option name="LAST_COMMIT_MESSAGE" value="back to normal?" />
   </component>
 </project>
