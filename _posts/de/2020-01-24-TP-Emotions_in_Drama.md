@@ -4,7 +4,6 @@ excerpt: "Christian Wolff & Katrin Dennerlein"
 lang: de
 
 ---
-
 ***Christian Wolff & Katrin Dennerlein***
 
 Obwohl die Darstellung und Evokation von Emotionen in Dramen und Dramenpoetiken seit Aristoteles grundlegend zur Dramengeschichte gehören, sind sie bisher in der quantitativen Dramenanalyse nicht berücksichtigt worden. Aus diesem Grund widmet sich das vorliegende Projekt der Extraktion, Analyse und Bewertung von Figurenemotionen. Da Emotionen und ihre Darstellung stark von kulturellen und historischen Faktoren abhängig sind, wird dies für ein spezifisches Korpus versucht: das deutschsprachige Drama in derjenigen Phase, die mit  Ende des Dreißigjährigen Krieges beginnt und bis zum Anfang der Restaurationsepoche geht. Dieser Zeitraum bietet sich deshalb an, weil hier das deutschsprachige Drama etabliert wird und weil der ‚Affekt‘ im Sinne eines vorübergehenden emotionalen Zustandes zum Zentralbegriff wird. Für eine bessere Erforschung der Emotionen wurde das Dramenkorpus von Textgrid um 25 Libretti von Opern der Hamburger Gänsemarktoper aus der Zeit von 1678-1730, 20 Libretti aus der Zeit um 1800 und 20 Wanderbühnenstücke erweitert. Durch diese Ergänzung können nun auch Musiktheatertexte, die vom Beginn des Untersuchungszeitraumes an unabhängig von ihrer Vertonung als die wichtigste Gattung bei der Gestaltung von Emotionen verstanden werden, untersucht werden. 
