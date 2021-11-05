@@ -69,5 +69,4 @@ Having done all this work we should be able to identify pathos-strategies, id es
       <li><a href="https://fdhl.info/wp-content/uploads/2020/12/Poster_DINA4.pdf">Poster (in German)</a></li>
       <li><a href="https://youtu.be/9DdybUzN92E">Video for the Poster Slam (in German)</a></li>
   </ul>
-  
  </ul>
