@@ -52,9 +52,9 @@ Having done all this work we should be able to identify pathos-strategies, id es
   You can find regular updates about our publications in our <a href="https://www.researchgate.net/project/Emotions-in-Drama">Research Gate group</a>.
   <ul>
   
-  <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2022, submitted). Evaluation computergestützter Verfahren der Emotionsklassifikation für deutschsprachige Dramen um 1800. In <em>8. Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum (DHd 2022)</em>.</li>
+  <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2022, accepted). Evaluation computergestützter Verfahren der Emotionsklassifikation für deutschsprachige Dramen um 1800. In <em>8. Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum (DHd 2022)</em>.</li>
   
-  <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022, submitted). Emotionen im kulturellen Gedächtnis bewahren. In <em>8. Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum (DHd 2022)</em>.</li>
+  <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022, accepted). Emotionen im kulturellen Gedächtnis bewahren. In <em>8. Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum (DHd 2022)</em>.</li>
   
   <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2021, accepted). Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language. In <em>Proceedings of the Fifth Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature.</em></li>
   

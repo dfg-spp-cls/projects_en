@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="testing permalink" />
+    <list default="true" id="615fb716-cfee-4a36-a7b7-6f5b1a12a37a" name="Default Changelist" comment="redirect removed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,21 +149,9 @@
       <workItem from="1620003575052" duration="15734000" />
       <workItem from="1636145093007" duration="3051000" />
       <workItem from="1636148698963" duration="96000" />
-      <workItem from="1636191445504" duration="1323000" />
-    </task>
-    <task id="LOCAL-00061" summary="multilingual">
-      <created>1617741211568</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1617741211568</updated>
-    </task>
-    <task id="LOCAL-00062" summary="multilingual">
-      <created>1617741509187</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1617741509187</updated>
+      <workItem from="1636191445504" duration="1680000" />
+      <workItem from="1636200283931" duration="271000" />
+      <workItem from="1636214064894" duration="646000" />
     </task>
     <task id="LOCAL-00063" summary="multilingual">
       <created>1617800714746</created>
@@ -492,7 +482,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636194817871</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="testing permalink and redirect">
+      <created>1636196524888</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1636196524888</updated>
+    </task>
+    <task id="LOCAL-00111" summary="redirect removed">
+      <created>1636196806249</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1636196806249</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,8 +528,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fixing dates" />
-    <MESSAGE value="not yet another layout fix" />
     <MESSAGE value="fixing linking" />
     <MESSAGE value="adding layouts" />
     <MESSAGE value="updating about" />
@@ -549,6 +551,8 @@
     <MESSAGE value="corrections" />
     <MESSAGE value="redirect" />
     <MESSAGE value="testing permalink" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing permalink" />
+    <MESSAGE value="testing permalink and redirect" />
+    <MESSAGE value="redirect removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="redirect removed" />
   </component>
 </project>
