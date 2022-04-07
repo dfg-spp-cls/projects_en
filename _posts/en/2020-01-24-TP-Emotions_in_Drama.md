@@ -52,17 +52,17 @@ Having done all this work we should be able to identify pathos-strategies, id es
   <ul>
     <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022b, accepted). Emotion Classification in German Historical Tragedies and Comedies. In 16th Annual International     Conference of the Alliance of Digital Humanities Organizations (DH 2022). Tokyo, Japan.</li>
 
-    <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022c). Emotionen im kulturellen Gedächtnis bewahren. In DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022. Potsdam, Germany. https://doi.org/10.5281/zenodo.6327957</li>
+    <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022c). Emotionen im kulturellen Gedächtnis bewahren. In DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022. Potsdam, Germany. <a href="https://doi.org/10.5281/zenodo.6327957"></li>
 
-    <li>Schmidt, T., Dennerlein K. & Wolff, C. (2022d). Evaluation computergestützter Verfahren der Emotionsklassifikation für deutschsprachige Dramen um 1800. In DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022. Potsdam, Germany. https://doi.org/10.5281/zenodo.6328169</li>
+    <li>Schmidt, T., Dennerlein K. & Wolff, C. (2022d). Evaluation computergestützter Verfahren der Emotionsklassifikation für deutschsprachige Dramen um 1800. In DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022. Potsdam, Germany. <a href="https://doi.org/10.5281/zenodo.6328169"></li>
 
-    <li>Dennerlein, K. (2021). Materialien und Medien der Komödiengeschichte. Zur Praxeologie der Werkzirkulation zwischen Hamburg und Wien von 1678–1806 (Studien und Texten zur Sozialgeschichte der deutschen Literatur 152). Berlin/New York: de Gruyter. https://doi.org/10.1515/9783110691191</li>
+    <li>Dennerlein, K. (2021). Materialien und Medien der Komödiengeschichte. Zur Praxeologie der Werkzirkulation zwischen Hamburg und Wien von 1678–1806 (Studien und Texten zur Sozialgeschichte der deutschen Literatur 152). Berlin/New York: de Gruyter. <a href="https://doi.org/10.1515/9783110691191"></li>
 
-    <li>Schmidt, T., Dennerlein, K., & Wolff, C. (2021a). Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language. In Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (pp. 67-79). https://doi.org/10.18653/v1/2021.latechclfl-1.8</li>
+    <li>Schmidt, T., Dennerlein, K., & Wolff, C. (2021a). Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language. In Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (pp. 67-79). <a href="https://doi.org/10.18653/v1/2021.latechclfl-1.8"></li>
 
-    <li>Schmidt, T., Dennerlein, K., & Wolff, C. (2021b). Towards a Corpus of Historical German Plays with Emotion Annotations. In 3rd Conference on Language, Data and Knowledge (LDK 2021). Dagstuhl, Germany: Schloss Dagstuhl-Leibniz-Zentrum für Informatik. https://doi.org/10.18653/v1/10.4230/OASIcs.LDK.2021.9</li>
+    <li>Schmidt, T., Dennerlein, K., & Wolff, C. (2021b). Towards a Corpus of Historical German Plays with Emotion Annotations. In 3rd Conference on Language, Data and Knowledge (LDK 2021). Dagstuhl, Germany: Schloss Dagstuhl-Leibniz-Zentrum für Informatik. <a href="https://doi.org/10.18653/v1/10.4230/OASIcs.LDK.2021.9"></li>
 
-    <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2021c). Using Deep Learning for Emotion Analysis of 18th and 19th Century German Plays. In: Burghardt, M. et al. (Edt.). Fabrikation von Erkenntnis: Experimente in den Digital Humanities. Esch-sur-Alzette: Melusina Press. https://doi.org/10.26298/melusina.8f8w-y749-udlf</li>  
+    <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2021c). Using Deep Learning for Emotion Analysis of 18th and 19th Century German Plays. In: Burghardt, M. et al. (Edt.). Fabrikation von Erkenntnis: Experimente in den Digital Humanities. Esch-sur-Alzette: Melusina Press. <a href="https://doi.org/10.26298/melusina.8f8w-y749-udlf"></li>  
   </ul>
 
 <h2>Further Material:</h2>
