@@ -47,19 +47,14 @@ Als Ergebnis für die Literaturwissenschaft sollte es dann möglich sein, Pathos
   </ul>
 
 <h2>Publikationen:</h2>
-  You can find regular updates about our publications in our <a href="https://www.researchgate.net/project/Emotions-in-Drama">Research Gate group</a>.
   <ul>
-
-  <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2022, accepted). Evaluation computergestützter Verfahren der Emotionsklassifikation für deutschsprachige Dramen um 1800. In <em>8. Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum (DHd 2022)</em>.</li>
-
-  <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022, accepted). Emotionen im kulturellen Gedächtnis bewahren. In <em>8. Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum (DHd 2022)</em>.</li>
-
-  <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2021, accepted). Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language. In <em>Proceedings of the Fifth Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature.</em></li>
-
-  <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2021, submitted). Using Deep Neural Networks for Emotion Analysis of 18th and 19th century German Plays. In <em>Fabrikation von Erkenntnis: Experimente in den Digital Humanities (vDHd Sonderband)</em>. Melusina Press. <a href="https://doi.org/10.26298/melusina.8f8w-y749-udlf">DOI:10.26298/melusina.8f8w-y749-udlf</a> <a href="https://doi.org/10.26298/melusina.8f8w-y749">[online]</a></li>
-
-  <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2021). Towards a Corpus of Historical German Plays with Emotion Annotations. In <em>LDK 2021 – 3rd Conference on Language, Data and Knowledge (LDK 2021)</em>. Zaragoza, Spain.<a href="https://doi.org/10.4230/OASIcs.LDK.2021.9">DOI:10.4230/OASIcs.LDK.2021.9</a> <a href="https://drops.dagstuhl.de/opus/volltexte/2021/14545/pdf/OASIcs-LDK-2021-9.pdf">[pdf]</a><a href="https://youtu.be/A5fVGfgd86E">[video]</a></li> 
-
+    <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022b, accepted). Emotion Classification in German Historical Tragedies and Comedies. In 16th Annual International     Conference of the Alliance of Digital Humanities Organizations (DH 2022). Tokyo, Japan.</li>
+    <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022c). Emotionen im kulturellen Gedächtnis bewahren. In DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022. Potsdam, Germany. <a href="https://doi.org/10.5281/zenodo.6327957">https://doi.org/10.5281/zenodo.6327957</a></li>
+    <li>Schmidt, T., Dennerlein K. & Wolff, C. (2022d). Evaluation computergestützter Verfahren der Emotionsklassifikation für deutschsprachige Dramen um 1800. In DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022. Potsdam, Germany. <a href="https://doi.org/10.5281/zenodo.6328169">https://doi.org/10.5281/zenodo.6328169</a></li>
+    <li>Dennerlein, K. (2021). Materialien und Medien der Komödiengeschichte. Zur Praxeologie der Werkzirkulation zwischen Hamburg und Wien von 1678–1806 (Studien und Texten zur Sozialgeschichte der deutschen Literatur 152). Berlin/New York: de Gruyter. <a href="https://doi.org/10.1515/9783110691191">https://doi.org/10.1515/9783110691191</a></li>
+    <li>Schmidt, T., Dennerlein, K., & Wolff, C. (2021a). Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language. In Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (pp. 67-79). <a href="https://doi.org/10.18653/v1/2021.latechclfl-1.8">https://doi.org/10.18653/v1/2021.latechclfl-1.8</a></li>
+    <li>Schmidt, T., Dennerlein, K., & Wolff, C. (2021b). Towards a Corpus of Historical German Plays with Emotion Annotations. In 3rd Conference on Language, Data and Knowledge (LDK 2021). Dagstuhl, Germany: Schloss Dagstuhl-Leibniz-Zentrum für Informatik. <a href="https://doi.org/10.18653/v1/10.4230/OASIcs.LDK.2021.9">https://doi.org/10.18653/v1/10.4230/OASIcs.LDK.2021.9</a></li>
+    <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2021c). Using Deep Learning for Emotion Analysis of 18th and 19th Century German Plays. In: Burghardt, M. et al. (Edt.). Fabrikation von Erkenntnis: Experimente in den Digital Humanities. Esch-sur-Alzette: Melusina Press. <a href="https://doi.org/10.26298/melusina.8f8w-y749-udlf">https://doi.org/10.26298/melusina.8f8w-y749-udlf</a></li>  
   </ul>
 
 <h2>Weiterführende Informationen:</h2>
