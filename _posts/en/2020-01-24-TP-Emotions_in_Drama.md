@@ -13,7 +13,8 @@ Although the depiction and evocation of emotions are at the heart of dramatic pr
 In a first step models for the analysis of emotion in dramatic texts shall be evaluated with regard to their use for digital analysis. Retrievable linguistic as well as rhetorical means are specified and extracted for whole texts as well as for elements of dramatic texts specifically dedicated to the depiction of affects: stage directions, soliloquies, arias and endings of drama. Human annotators will specify for genre-specific subcorpora which emotions are mentioned (for example happiness, love, sorrow, envy). They will also annotate if these emotions are evaluated positively or negatively. In a next step algorithms of sentiment analysis shall be trained on this material. It is an important goal of the project to approve the method of sentiment analysis for its use on historical, especially fictional, corpora.
 Having done all this work we should be able to identify pathos-strategies, id est passages of texts with a high arousal of emotions and to give first hints as to which emotions are thematized with which appraisal. Another objective is the revision of the history of the comic character and its relation to the emotion of happiness.
 
-<h2>Emotion set (+ marks rather positive emotions, - negative):</h2>
+<h2>Emotion set:</h2>
+(+ marks rather positive emotions, - negative)
 <ul>
   <li>Emotions of affection / Zuneigung</li>
   <ul>
@@ -46,6 +47,26 @@ Having done all this work we should be able to identify pathos-strategies, id es
   <li>being moved / emotionale Bewegtheit (undetermined)</li>
 </ul>
 
+<h2>Achievements</h2>
+
+In the first half of the project EmoDrama I, we advanced the research areas of CLS, NLP and German literary studies by:
+
+<ul>
+  <li>Extending preexisting corpora for plays of the time frame 1650-1815 with non-canonical works in machine readable TEI format,</li>
+  <li>operationalizing the variety of historical emotion terms, emotion concepts and aspects of emotion presentation for a drama-historical question,</li>
+  <li>defining 13 historical emotion concepts in a historically adequate way, </li>
+  <li>providing comprehensive annotation guidelines with numerous complex examples from drama texts on the individual emotion concepts, on source and target, on negation and on the distinction between expressed, attributed and pretended emotion, </li>
+  <li>annotating 17 plays that can be used for analysis and machine learning (we will publish them for the research community at the end of the project via GitHub),</li>
+  <li>analyzing the annotations of plays and reflect upon the usage of quantitative annotation analysis for literary studies,</li>
+  <li>evaluating multiple baseline and state-of-the-art methods for single-label emotion classification and train models optimized for our specific task </li>
+  <li>evaluating multiple baseline and state-of-the-art methods for single-label emotion classification and train models optimized for our specific task and by a</li>
+  <ul>
+    <li>the correlation of emotions and plot developments,</li>
+    <li>distinguishing tragedy endings from comedy endings on the basis of their emotional footprint,</li>
+    <li>formulating initial theses to explain the frequency distributions of emotions in the overall corpus and the major genres comedy and tragedy.</li>
+  </ul>
+</ul>
+
 
 <h2>Contact:</h2>
 <ul>
@@ -68,31 +89,18 @@ Having done all this work we should be able to identify pathos-strategies, id es
     </ul>
   </ul>
   
-<h2>Tasks/Project Plan - Overview</h2>
-<ul>
-  <li>Development of emotion annotation schemes</li>
-  <li>Annotation of plays of different epochs with emotion and source/target information</li>
-  <li>Analysis of annotations and creation of emotion annotated corpora</li>
-  <li>Adjusting of word embeddings to the historical and poetic language of different epochs</li>
-  <li>Development of machine learning algorithms to predict emotions, source and target</li>
-  <li>Exploration and evaluation of prediction results</li>
-</ul>
-
-<h2>Organizational tasks in the  priority programme Computational Literary Studies</h2>
-  <ul>
-    <li>Head of organization: Working Group Sentiment Analysis</li>
-    <li>Head of organization: Working Group Drama</li>
-  </ul>
-  
 <h2>Publications:</h2>
   <ul>
-    <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022b, accepted). Emotion Classification in German Historical Tragedies and Comedies. In 16th Annual International     Conference of the Alliance of Digital Humanities Organizations (DH 2022). Tokyo, Japan.</li>
-    <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022c). Emotionen im kulturellen Gedächtnis bewahren. In DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022. Potsdam, Germany. <a href="https://doi.org/10.5281/zenodo.6327957">https://doi.org/10.5281/zenodo.6327957</a></li>
-    <li>Schmidt, T., Dennerlein K. & Wolff, C. (2022d). Evaluation computergestützter Verfahren der Emotionsklassifikation für deutschsprachige Dramen um 1800. In DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022. Potsdam, Germany. <a href="https://doi.org/10.5281/zenodo.6328169">https://doi.org/10.5281/zenodo.6328169</a></li>
-    <li>Dennerlein, K. (2021). Materialien und Medien der Komödiengeschichte. Zur Praxeologie der Werkzirkulation zwischen Hamburg und Wien von 1678–1806 (Studien und Texten zur Sozialgeschichte der deutschen Literatur 152). Berlin/New York: de Gruyter. <a href="https://doi.org/10.1515/9783110691191">https://doi.org/10.1515/9783110691191</a></li>
-    <li>Schmidt, T., Dennerlein, K., & Wolff, C. (2021a). Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language. In Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (pp. 67-79). <a href="https://doi.org/10.18653/v1/2021.latechclfl-1.8">https://doi.org/10.18653/v1/2021.latechclfl-1.8</a></li>
-    <li>Schmidt, T., Dennerlein, K., & Wolff, C. (2021b). Towards a Corpus of Historical German Plays with Emotion Annotations. In 3rd Conference on Language, Data and Knowledge (LDK 2021). Dagstuhl, Germany: Schloss Dagstuhl-Leibniz-Zentrum für Informatik. <a href="https://doi.org/10.18653/v1/10.4230/OASIcs.LDK.2021.9">https://doi.org/10.18653/v1/10.4230/OASIcs.LDK.2021.9</a></li>
-    <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2021c). Using Deep Learning for Emotion Analysis of 18th and 19th Century German Plays. In: Burghardt, M. et al. (Edt.). Fabrikation von Erkenntnis: Experimente in den Digital Humanities. Esch-sur-Alzette: Melusina Press. <a href="https://doi.org/10.26298/melusina.8f8w-y749-udlf">https://doi.org/10.26298/melusina.8f8w-y749-udlf</a></li>  
+  <li>Brandes, Ph., Dennerlein, K., Jacke, J., Marshall, S., Pielström, St., Schneider, F. (2022, accepted). Modelling and Operationalizing Concepts in Computational Literary Studies. In <i>16th Annual International Conference of the Alliance of Digital Humanities Organizations (DH 2022)</i>. Tokyo, Japan.</li>
+  <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022, accepted). Emotion Classification in German Historical Tragedies and Comedies. In <i>16th Annual International Conference of the Alliance of Digital Humanities Organizations (DH 2022)</i>. Tokyo, Japan.</li>
+  <li>Dennerlein, K., Huber, M. (2022). Reports on Modelling dramatic metadata. With examples of communicative relevance of female playwrights in the second half of the 18th century. In <i>Book of Abstracts, Digital Humanities Nord 2022</i>. Uppsala, Sweden.</li>
+    <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022). Emotionen im kulturellen Gedächtnis bewahren. In <i>DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022.</i> Potsdam, Germany. <a href="https://doi.org/10.5281/zenodo.6327957">https://doi.org/10.5281/zenodo.6327957</a></li>
+  <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022). <i>Figurenemotionen in deutschsprachigen Dramen annotieren.</i>< Zenodo. <a href="https://doi.org/10.5281/zenodo.6228152">https://doi.org/10.5281/zenodo.6228152</a></li>
+    <li>Schmidt, T., Dennerlein K. & Wolff, C. (2022). Evaluation computergestützter Verfahren der Emotionsklassifikation für deutschsprachige Dramen um 1800. In <i>DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022.</i> Potsdam, Germany. <a href="https://doi.org/10.5281/zenodo.6328169">https://doi.org/10.5281/zenodo.6328169</a></li>
+    <li>Dennerlein, K. (2021). <i>Materialien und Medien der Komödiengeschichte. Zur Praxeologie der Werkzirkulation zwischen Hamburg und Wien von 1678–1806 (Studien und Texten zur Sozialgeschichte der deutschen Literatur 152).</i> Berlin/New York: de Gruyter. <a href="https://doi.org/10.1515/9783110691191">https://doi.org/10.1515/9783110691191</a></li>
+    <li>Schmidt, T., Dennerlein, K., & Wolff, C. (2021). Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language. In <i>Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</i> (pp. 67-79). <a href="https://doi.org/10.18653/v1/2021.latechclfl-1.8">https://doi.org/10.18653/v1/2021.latechclfl-1.8</a></li>
+    <li>Schmidt, T., Dennerlein, K., & Wolff, C. (2021). Towards a Corpus of Historical German Plays with Emotion Annotations. In <i>3rd Conference on Language, Data and Knowledge (LDK 2021)</i>. Dagstuhl, Germany: Schloss Dagstuhl-Leibniz-Zentrum für Informatik. <a href="https://doi.org/10.18653/v1/10.4230/OASIcs.LDK.2021.9">https://doi.org/10.18653/v1/10.4230/OASIcs.LDK.2021.9</a></li>
+    <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2021). Using Deep Learning for Emotion Analysis of 18th and 19th Century German Plays. In: Burghardt, M. et al. (Edt.). <i>Fabrikation von Erkenntnis: Experimente in den Digital Humanities.</i> Esch-sur-Alzette: Melusina Press. <a href="https://doi.org/10.26298/melusina.8f8w-y749-udlf">https://doi.org/10.26298/melusina.8f8w-y749-udlf</a></li>  
   </ul>
 
 <h2>Further Material:</h2>
