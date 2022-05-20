@@ -13,13 +13,35 @@ Although the depiction and evocation of emotions are at the heart of dramatic pr
 In a first step models for the analysis of emotion in dramatic texts shall be evaluated with regard to their use for digital analysis. Retrievable linguistic as well as rhetorical means are specified and extracted for whole texts as well as for elements of dramatic texts specifically dedicated to the depiction of affects: stage directions, soliloquies, arias and endings of drama. Human annotators will specify for genre-specific subcorpora which emotions are mentioned (for example happiness, love, sorrow, envy). They will also annotate if these emotions are evaluated positively or negatively. In a next step algorithms of sentiment analysis shall be trained on this material. It is an important goal of the project to approve the method of sentiment analysis for its use on historical, especially fictional, corpora.
 Having done all this work we should be able to identify pathos-strategies, id est passages of texts with a high arousal of emotions and to give first hints as to which emotions are thematized with which appraisal. Another objective is the revision of the history of the comic character and its relation to the emotion of happiness.
 
-<h2>Emotion set:</h2>
+<h2>Emotion set (+ marks rather positive emotions, - negative):</h2>
 <ul>
   <li>Emotions of affection / Zuneigung</li>
+  <ul>
+    <li>desire / Lust (+)</li>
+    <li>love / Liebe (+)</li>
+    <li>friendship / Freundschaft (+)</li>
+    <li>admiration, reverence / Verehrung, Bewunderung (+)</li>
+  </ul>
   <li>Emotions of pleasure / Freude und Glück</li>
+  <ul>
+    <li>joy / Freude (+)</li>
+    <li>Schadenfreude (+)</li>
+  </ul>
   <li>Emotions of anxiety / Angst und Sorg</li>
+  <ul>
+    <li>fear / Angst (-)</li>
+    <li>despair / Verzweiflung (-)</li>
+  </ul>
   <li>Emotions of rejection / Ablehnung </li>
+  <ul>
+    <li>anger / Ärger (-)</li>
+    <li>abhorrence / Abscheu, Wut, Hass (-)</li>
+  </ul>
   <li>Emotions of suffering and empathy / Leid</li>
+  <ul>
+    <li>suffering / Leid (-)</li>
+    <li>compassion / Mitleid (-)</li>
+  </ul>
   <li>no main class</li>
   <li>being moved / emotionale Bewegtheit (undetermined)</li>
 </ul>
