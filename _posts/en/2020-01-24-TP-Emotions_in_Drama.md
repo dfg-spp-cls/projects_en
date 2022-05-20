@@ -91,6 +91,7 @@ In the first half of the project EmoDrama I, we advanced the research areas of C
   
 <h2>Publications:</h2>
   <ul>
+  <li> Dennerlein, K., Schmidt, T. & Wolff, C. (2022, accepted). Stagedirections and Emotions - First Explorations. (Working Title). In <i>Workshop on Computational Drama Analysis: Achievements and Opportunities.</i> Cologne, Germany.  
   <li>Brandes, Ph., Dennerlein, K., Jacke, J., Marshall, S., Pielström, St., Schneider, F. (2022, accepted). Modelling and Operationalizing Concepts in Computational Literary Studies. In <i>16th Annual International Conference of the Alliance of Digital Humanities Organizations (DH 2022)</i>. Tokyo, Japan.</li>
   <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2022, accepted). Emotion Classification in German Historical Tragedies and Comedies. In <i>16th Annual International Conference of the Alliance of Digital Humanities Organizations (DH 2022)</i>. Tokyo, Japan.</li>
   <li>Dennerlein, K., Huber, M. (2022). Reports on Modelling dramatic metadata. With examples of communicative relevance of female playwrights in the second half of the 18th century. In <i>Book of Abstracts, Digital Humanities Nord 2022</i>. Uppsala, Sweden.</li>
@@ -103,9 +104,11 @@ In the first half of the project EmoDrama I, we advanced the research areas of C
     <li>Schmidt, T., Dennerlein, K. & Wolff, C. (2021). Using Deep Learning for Emotion Analysis of 18th and 19th Century German Plays. In: Burghardt, M. et al. (Edt.). <i>Fabrikation von Erkenntnis: Experimente in den Digital Humanities.</i> Esch-sur-Alzette: Melusina Press. <a href="https://doi.org/10.26298/melusina.8f8w-y749-udlf">https://doi.org/10.26298/melusina.8f8w-y749-udlf</a></li>  
   </ul>
 
-<h2>Further Material:</h2>
+<h2>Talks and further material:</h2>
 
 <ul>
+  <li> Schmidt, T., Dennerlein, K. & Wolff, C. (2022, accepted). Insights and Perspectives of the Research project ‘Emotions in Drama’. In <i>Computational Stylistics Workshop on Emotion and Sentiment Analysis in Literature</i>. Paris, France.
+  <li>Presentation at the University Göttingen: "Emotion und Gattung. Zur Analyse von Dramen um 1800." (December 20th, 2021).</li>
   <li>Keynote at the workshop "Sentiment Analysis in Literary Studies" at the University of Graz in February 2021.</li>
   <ul>
     <li><a href="https://informationsmodellierung.uni-graz.at/de/institut/veranstaltungen/sentiment-analysis-in-literary-studies-2021/">More Information about the Workshop</a></li>
