@@ -67,16 +67,16 @@ In the first half of the project EmoDrama I, we advanced the research areas of C
 
 <h2>Contact:</h2>
 <ul>
+  <li>Katrin Dennerlein:</li>
+    <ul>
+      <li>katrin.dennerlein@uni-wuerzburg.de</li>
+      <li><a href="https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/mitarbeiter/dennerlein/">Webseite</a></li>
+  </ul>
   <li>Christian Wolff:</li>
   <ul>
       <li>christian.wolff@ur.de</li>
       <li>Twitter: <a href="https://twitter.com/chriswolff">@chriswolff</a></li>
       <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/christian-wolff/">Webseite</a></li>
-  </ul>
-  <li>Katrin Dennerlein:</li>
-    <ul>
-      <li>katrin.dennerlein@uni-wuerzburg.de</li>
-      <li><a href="https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/mitarbeiter/dennerlein/">Webseite</a></li>
   </ul>
   <li>Thomas Schmidt:</li>
     <ul>
