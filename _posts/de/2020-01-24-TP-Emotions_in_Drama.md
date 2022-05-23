@@ -1,6 +1,6 @@
 ---
 title: Emotions in Drama
-excerpt: "Christian Wolff & Katrin Dennerlein"
+excerpt: "Katrin Dennerlein & Christian Wolff"
 lang: de
 ---
 
