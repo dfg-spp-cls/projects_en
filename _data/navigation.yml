@@ -9,7 +9,7 @@ header:
       de: &DE       Home
       de-DE: *DE
       # @end locale config
-    url: https://dfg-spp-cls.github.io
+   url: https://dfg-spp-cls.github.io
   - titles:
       # @start locale config
       en      : &EN       Projects
@@ -41,7 +41,7 @@ header:
         de   : &DE       Achievements
         de-DE: *DE
         # @end locale config
-    url: /achievements.html
+   url: https://dfg-spp-cls.github.io//achievements.html
   - titles:
       # @start locale config
       en      : &EN       About
