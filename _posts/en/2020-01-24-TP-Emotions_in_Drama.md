@@ -52,10 +52,10 @@ Having done all this work we should be able to identify pathos-strategies, id es
 <h2>Annotated Plays </h2>
 
 <ul>
-  <li>-	Andreas Gryphius: Katharina von Georgien (1657), Tragödie</li>
-  <li>-	Der Welt Erschröckende Attila (nach 1682)</li>
+  <li>Andreas Gryphius: Katharina von Georgien (1657), Tragödie</li>
+  <li>Der Welt Erschröckende Attila (nach 1682)</li>
   <li>Christian Weise: Massaniello (1683), Tragödie</li>
-  <li>-	Christian Weise:  Ein wunderliches Schau-Spiel vom niederländischen Bauer (1669), Komödie 
+  <li>Christian Weise:  Ein wunderliches Schau-Spiel vom niederländischen Bauer (1669), Komödie 
 </li>
   <li>Die getreue Sclavin Doris (1720)</li>
   <li>Luise Adelgunde Victorie Gottsched: Das Testament (1745), Komödie</li>
