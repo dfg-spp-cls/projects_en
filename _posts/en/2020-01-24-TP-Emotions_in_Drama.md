@@ -44,7 +44,32 @@ Having done all this work we should be able to identify pathos-strategies, id es
     <li>compassion / Mitleid (-)</li>
   </ul>
   <li>no main class</li>
-  <li>being moved / emotionale Bewegtheit (undetermined)</li>
+  <ul>
+    <li>being moved / emotionale Bewegtheit (undetermined)</li>
+  </ul>
+</ul>
+
+<h2>Annotated Plays </h2>
+
+<ul>
+  <li>-	Andreas Gryphius: Katharina von Georgien (1657), Tragödie</li>
+  <li>-	Der Welt Erschröckende Attila (nach 1682)</li>
+  <li>Christian Weise: Massaniello (1683), Tragödie</li>
+  <li>-	Christian Weise:  Ein wunderliches Schau-Spiel vom niederländischen Bauer (1669), Komödie 
+</li>
+  <li>Die getreue Sclavin Doris (1720)</li>
+  <li>Luise Adelgunde Victorie Gottsched: Das Testament (1745), Komödie</li>
+  <li>Johann Elias Schlegel: Canut (1746), Trauerspiel</li>
+  <li>Christian Fürchtegott Gellert: Die zärtlichen Schwestern (1747), Komödie</li>
+  <li>Johann Gottlieb Benjamin Pfeil: Lucie Woodvil (1757), Tragödie </li>
+  <li>Joachim Wilhelm von Brawe: Der Freigeist (1758), Tragödie</li>
+  <li>Gotthold Ephraim Lessing: Minna von Barnhelm, oder das Soldatenglück (1767), Komödie</li>
+  <li>Cornelius von Ayrenhoff: Der Postzug (1769), Komödie</li>
+  <li>Friedrich Schiller: Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen (1784), Tragödie</li>
+  <li>Ferdinand Eberl: Kasperl' der Mandolettikrämer (1789), Komödie [Libretto]</li>
+  <li>August von Kotzebue: Menschenhass und Reue (1790), Komödie</li>
+  <li>Friedrich Schiller: Wallensteins Lager (1800), Tragödie</li>
+  <li>Johann Wolfgang Goethe: Faust. Eine Tragödie (1807), Tragödie</li>
 </ul>
 
 <h2>Achievements</h2>
@@ -66,28 +91,6 @@ In the first half of the project EmoDrama I, we advanced the research areas of C
     <li>formulating initial theses to explain the frequency distributions of emotions in the overall corpus and the major genres comedy and tragedy.</li>
   </ul>
 </ul>
-
-
-<h2>Contact:</h2>
-<ul>
-    <li>Katrin Dennerlein:</li>
-    <ul>
-      <li>katrin.dennerlein@uni-wuerzburg.de</li>
-      <li><a href="https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/mitarbeiter/dennerlein/">Webseite</a></li>
-  </ul>
-  <li>Christian Wolff:</li>
-  <ul>
-      <li>christian.wolff@ur.de</li>
-      <li>Twitter: <a href="https://twitter.com/chriswolff">@chriswolff</a></li>
-      <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/christian-wolff/">Webseite</a></li>
-  </ul>
-  <li>Thomas Schmidt:</li>
-    <ul>
-      <li>thomas.schmidt@ur.de</li>
-      <li>Twitter: <a href="https://twitter.com/thomasS_UniR">@thomasS_UniR</a></li>
-      <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html">Webseite</a></li>
-    </ul>
-  </ul>
   
 <h2>Publications:</h2>
   <ul>
@@ -123,3 +126,24 @@ In the first half of the project EmoDrama I, we advanced the research areas of C
   </ul>
   
  </ul>
+ 
+ <h2>Contact:</h2>
+<ul>
+    <li>Katrin Dennerlein:</li>
+    <ul>
+      <li>katrin.dennerlein@uni-wuerzburg.de</li>
+      <li><a href="https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/mitarbeiter/dennerlein/">Webseite</a></li>
+  </ul>
+  <li>Christian Wolff:</li>
+  <ul>
+      <li>christian.wolff@ur.de</li>
+      <li>Twitter: <a href="https://twitter.com/chriswolff">@chriswolff</a></li>
+      <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/christian-wolff/">Webseite</a></li>
+  </ul>
+  <li>Thomas Schmidt:</li>
+    <ul>
+      <li>thomas.schmidt@ur.de</li>
+      <li>Twitter: <a href="https://twitter.com/thomasS_UniR">@thomasS_UniR</a></li>
+      <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html">Webseite</a></li>
+    </ul>
+  </ul>
