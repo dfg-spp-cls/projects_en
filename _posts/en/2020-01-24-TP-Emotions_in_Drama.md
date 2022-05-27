@@ -52,24 +52,24 @@ Having done all this work we should be able to identify pathos-strategies, id es
 <h2>Annotated Plays </h2>
 
 <ul>
-  <li>Andreas Gryphius: Katharina von Georgien (1657), Tragödie</li>
+  <li>Andreas Gryphius: Katharina von Georgien (1657), tragedy</li>
   <li>Der Welt Erschröckende Attila (nach 1682)</li>
-  <li>Christian Weise: Massaniello (1683), Tragödie</li>
-  <li>Christian Weise:  Ein wunderliches Schau-Spiel vom niederländischen Bauer (1669), Komödie 
+  <li>Christian Weise: Massaniello (1683), tragedy</li>
+  <li>Christian Weise:  Ein wunderliches Schau-Spiel vom niederländischen Bauer (1669), comedy
 </li>
   <li>Die getreue Sclavin Doris (1720)</li>
-  <li>Luise Adelgunde Victorie Gottsched: Das Testament (1745), Komödie</li>
-  <li>Johann Elias Schlegel: Canut (1746), Trauerspiel</li>
-  <li>Christian Fürchtegott Gellert: Die zärtlichen Schwestern (1747), Komödie</li>
-  <li>Johann Gottlieb Benjamin Pfeil: Lucie Woodvil (1757), Tragödie </li>
-  <li>Joachim Wilhelm von Brawe: Der Freigeist (1758), Tragödie</li>
-  <li>Gotthold Ephraim Lessing: Minna von Barnhelm, oder das Soldatenglück (1767), Komödie</li>
-  <li>Cornelius von Ayrenhoff: Der Postzug (1769), Komödie</li>
-  <li>Friedrich Schiller: Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen (1784), Tragödie</li>
-  <li>Ferdinand Eberl: Kasperl' der Mandolettikrämer (1789), Komödie [Libretto]</li>
-  <li>August von Kotzebue: Menschenhass und Reue (1790), Komödie</li>
-  <li>Friedrich Schiller: Wallensteins Lager (1800), Tragödie</li>
-  <li>Johann Wolfgang Goethe: Faust. Eine Tragödie (1807), Tragödie</li>
+  <li>Luise Adelgunde Victorie Gottsched: Das Testament (1745), comedy</li>
+  <li>Johann Elias Schlegel: Canut (1746), tragedy</li>
+  <li>Christian Fürchtegott Gellert: Die zärtlichen Schwestern (1747), comedy</li>
+  <li>Johann Gottlieb Benjamin Pfeil: Lucie Woodvil (1757), tragedy </li>
+  <li>Joachim Wilhelm von Brawe: Der Freigeist (1758), tragedy</li>
+  <li>Gotthold Ephraim Lessing: Minna von Barnhelm, oder das Soldatenglück (1767), comedy</li>
+  <li>Cornelius von Ayrenhoff: Der Postzug (1769), comedy</li>
+  <li>Friedrich Schiller: Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen (1784), tragedy</li>
+  <li>Ferdinand Eberl: Kasperl' der Mandolettikrämer (1789), comedy [Libretto]</li>
+  <li>August von Kotzebue: Menschenhass und Reue (1790), comedy</li>
+  <li>Friedrich Schiller: Wallensteins Lager (1800), tragedy</li>
+  <li>Johann Wolfgang Goethe: Faust. Eine Tragödie (1807), tragedy</li>
 </ul>
 
 <h2>Achievements</h2>
