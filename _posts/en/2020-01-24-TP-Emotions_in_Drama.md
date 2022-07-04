@@ -148,4 +148,3 @@ In the first half of the project EmoDrama I, we advanced the research areas of C
       <li>Twitter: <a href="https://twitter.com/thomasS_UniR">@thomasS_UniR</a></li>
       <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html">Webseite</a></li>
     </ul>
-  </ul>
