@@ -125,6 +125,8 @@ In the first half of the project EmoDrama I, we advanced the research areas of C
       <li><a href="https://fdhl.info/dhdl-2020/">Digital Humanities Day Leipzig (DHDL) - Schedule</a></li>
       <li><a href="https://fdhl.info/wp-content/uploads/2020/12/Poster_DINA4.pdf">Poster (in German)</a></li>
       <li><a href="https://youtu.be/9DdybUzN92E">Video for the Poster Slam (in German)</a></li>
+  </ul>
+  </ul>
 
  
  <h2>Contact:</h2>
