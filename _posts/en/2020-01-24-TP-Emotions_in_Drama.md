@@ -28,7 +28,7 @@ Having done all this work we should be able to identify pathos-strategies, id es
     <li>joy / Freude (+)</li>
     <li>Schadenfreude (+)</li>
   </ul>
-  <li>Emotions of anxiety / Angst und Sorg</li>
+  <li>Emotions of anxiety / Angst und Sorge</li>
   <ul>
     <li>fear / Angst (-)</li>
     <li>despair / Verzweiflung (-)</li>
