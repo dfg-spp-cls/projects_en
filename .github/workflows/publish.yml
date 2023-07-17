@@ -20,14 +20,14 @@ jobs:
     # Standard usage
     - uses:  helaili/jekyll-action@v2
       env:
-        JEKYLL_PAT: ${{ secrets.GH_PAGES }}
+        JEKYLL_PAT: ${{ secrets.CLS_PRO }}
       with:
-        token: ${{ secrets.secrets.GH_PAGES }}
+        token: ${{ secrets.CLS_PRO }}
 
     # Specify the target branch (optional)
     - uses: helaili/jekyll-action@v2
       with:
-        token: ${{ secrets.secrets.GH_PAGES }}
+        token: ${{ secrets.CLS_PRO }}
         target_branch: 'gh-pages'
 
 
