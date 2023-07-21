@@ -95,7 +95,7 @@ In the first half of the project EmoDrama I, we advanced the research areas of C
   
 <h2>Publications:</h2>
   <ul>
-  <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2023). Emotions in Stage Directions in German Drama of the Early Modern Period: Explorations Computational Emotion Classification for genrecorpora of German Tragedies and Comedies from 17th to 19th century. Digital Scholarship in the Humanities (DSH). <a href="https://doi.org/10.1093/llc/fqad046">https://doi.org/10.1093/llc/fqad046</a></li>
+  <li>Dennerlein, K., Schmidt, T. & Wolff, C. (2023). Emotions in Stage Directions in German Drama of the Early Modern Period: Explorations Computational Emotion Classification for genrecorpora of German Tragedies and Comedies from 17th to 19th century. <i>Digital Scholarship in the Humanities</i> (DSH). <a href="https://doi.org/10.1093/llc/fqad046">https://doi.org/10.1093/llc/fqad046</a></li>
     <li>Dennerlein, K., Schmidt, T. & Wolff, C. Emotion courses in German Historical Tragedies and Comedies. In Book of Abstracts DH 2022. Tokyo, Japan 2022, S. 193–197.</li>
     <li>Brandes, Ph., Dennerlein, K., Jacke, J., Marshall, S., Pielström, St., Schneider, F. Modelling and Operationalizing Concepts in Computational Literary Studies. In Book of Abstracts DH 2022. Tokyo, Japan 2022, S. 70–73.</li>
   <li>Dennerlein, K., Huber, M. (2022). Reports on Modelling dramatic metadata. With examples of communicative relevance of female playwrights in the second half of the 18th century. In <i>Book of Abstracts, Digital Humanities Nord 2022</i>. Uppsala, Sweden.</li>
