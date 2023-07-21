@@ -84,8 +84,7 @@ In the first half of the project EmoDrama I, we advanced the research areas of C
   <li>providing comprehensive annotation guidelines with numerous complex examples from drama texts on the individual emotion concepts, on source and target, on negation and on the distinction between expressed, attributed and pretended emotion, </li>
   <li>annotating 17 plays that can be used for analysis and machine learning,</li>
   <li>analyzing the annotations of plays and reflect upon the usage of quantitative annotation analysis for literary studies,</li>
-  <li>evaluating multiple baseline and state-of-the-art methods for single-label emotion classification and train models optimized for our specific task </li>
-  <li>evaluating multiple baseline and state-of-the-art methods for single-label emotion classification and train models optimized for our specific task and by a</li>
+  <li>evaluating multiple baseline and state-of-the-art methods for single-label emotion classification and train models optimized for our specific task and by</li>
   <ul>
     <li>the correlation of emotions and plot developments,</li>
     <li>distinguishing tragedy endings from comedy endings on the basis of their emotional footprint,</li>
