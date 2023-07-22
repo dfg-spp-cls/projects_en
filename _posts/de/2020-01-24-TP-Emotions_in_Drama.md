@@ -84,11 +84,15 @@ In the first half of the project EmoDrama I, we advanced the research areas of C
   <li>providing comprehensive annotation guidelines with numerous complex examples from drama texts on the individual emotion concepts, on source and target, on negation and on the distinction between expressed, attributed and pretended emotion, </li>
   <li>annotating 17 plays that can be used for analysis and machine learning,</li>
   <li>analyzing the annotations of plays and reflect upon the usage of quantitative annotation analysis for literary studies,</li>
-  <li>evaluating multiple baseline and state-of-the-art methods for single-label emotion classification and train models optimized for our specific task and by</li>
+  <li>evaluating multiple baseline and state-of-the-art methods for single-label emotion classification (Schmidt, Dennerlein, Wolff 2021b)</li>
+  <li>training models optimized for our specific task (Schmidt, Dennerlein, Wolff 2021b, Dennerlein, Schmidt, Wolff 2023)</li>
+  <li>exploring the classified data with regard to</li>
   <ul>
-    <li>the correlation of emotions and plot developments,</li>
-    <li>distinguishing tragedy endings from comedy endings on the basis of their emotional footprint,</li>
-    <li>formulating initial theses to explain the frequency distributions of emotions in the overall corpus and the major genres comedy and tragedy.</li>
+    <li>the correlation of emotions and plot developments (Dennerlein, Schmidt, Wolff 2022a; Dennerlein, Schmidt, Wolff 2022b)</li>
+    <li>the distinciton of tragedy endings from comedy endings on the basis of their emotional footprint (Dennerlein, Schmidt, Wolff 2023)</li>
+    <li>the frequency distributions of emotions in the overall corpus and the major genres comedy and tragedy: anger shows up to be one of the most prominent emotions in comedies (Dennerlein, Schmidt, Wolff
+      2023)</li>
+    <li>Emotions are already discussed more frequently in stage directions from 1730 onwards, and not only since 1770 (Dennerlein, Schmidt, Wolff in print).</li>
   </ul>
 </ul>
   
