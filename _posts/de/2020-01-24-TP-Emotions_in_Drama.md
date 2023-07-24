@@ -92,13 +92,13 @@ In the first half of the project EmoDrama I, we advanced the research areas of C
     <li>the distinciton of tragedy endings from comedy endings on the basis of their emotional footprint (Dennerlein, Schmidt, Wolff 2023)</li>
     <li>the frequency distributions of emotions in the overall corpus and the major genres comedy and tragedy: anger shows up to be one of the most prominent emotions in comedies (Dennerlein, Schmidt, Wolff
       2023)</li>
-    <li>Emotions are already discussed more frequently in stage directions from 1730 onwards, and not only since 1770 (Dennerlein, Schmidt, Wolff in print).</li>
+    <li>Emotions which are already discussed more frequently in stage directions from 1730 onwards, and not only since 1770 (Dennerlein, Schmidt, Wolff in print).</li>
   </ul>
 </ul>
   
 <h2>Publications:</h2>
   <ul>
-    <li>Dennerlein, K., Schmidt, T. & Wolff, C. Computational Emotion Classification for genrecorpora of German Tragedies and Comedies from 17th to 19th century. <i>Digital Scholarship in the Humanities</i> (DSH). <a href="https://doi.org/10.1093/llc/fqad046">https://doi.org/10.1093/llc/fqad046</a></li>
+    <li>Dennerlein, K., Schmidt, T. & Wolff, C. Computational Emotion Classification for genrecorpora of German Tragedies and Comedies from 17th to 19th century. Digital Scholarship in the Humanities (DSH). <a href="https://doi.org/10.1093/llc/fqad046">https://doi.org/10.1093/llc/fqad046</a></li>
     <li>Dennerlein, K., Schmidt, T. & Wolff, C. (in print). Emotions in Stage Directions in German Drama of the Early Modern Period: Explorations via Computational Emotion Classification. In: Melanie Andresen/Nils Reiter/Benjamin Krautter/Janis Pagel (Hg.): Computational Drama Analysis: Achievements and Opportunities. Berlin/New York: de Gruyter, S. 166-194.</li>
     <li>Brandes, Ph., Dennerlein, K., Jacke, J., Marshall, S., Pielström, St., Schneider, F. Modelling and Operationalizing Concepts in Computational Literary Studies. In Book of Abstracts DH 2022. Tokyo, Japan 2022, S. 70–73.</li>
   <li>Dennerlein, K., Huber, M. (2022). Reports on Modelling dramatic metadata. With examples of communicative relevance of female playwrights in the second half of the 18th century. In <i>Book of Abstracts, Digital Humanities Nord 2022</i>. Uppsala, Sweden.</li>
