@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://dfg-spp-cls.github.io/projects_en/de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dfg-spp-cls.github.io/projects_en/de/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-14T12:55:48+00:00</updated><id>https://dfg-spp-cls.github.io/projects_en/feed.xml</id><title type="html">Computational Literary Studies (CLS)</title><subtitle>The priority programme SPP 2207 Computational Literary Studies (CLS), funded by the German Research Foundation (DFG), is dedicated to developig and establishing innovative computational methods in the field of literary studies</subtitle><author><name>Dr. Steffen Pielström</name></author><entry xml:lang="de"><title type="html">Anomaliebasierte quantitative Untersuchung von Stil und Gattung anhand des Stilmittelgebrauchs in mittelalterlicher Literatur</title><link href="https://dfg-spp-cls.github.io/projects_en/de/2020/01/24/TP-Anomaly-based_large-scale_analysis/" rel="alternate" type="text/html" title="Anomaliebasierte quantitative Untersuchung von Stil und Gattung anhand des Stilmittelgebrauchs in mittelalterlicher Literatur" /><published>2020-01-24T00:00:00+00:00</published><updated>2020-01-24T00:00:00+00:00</updated><id>https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Anomaly-based_large-scale_analysis</id><content type="html" xml:base="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Anomaly-based_large-scale_analysis/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Joachim Denzler &amp;amp; Sophie Marshall&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Projekt nimmt sich die quantitative Analyse von rhetorischen Stilmitteln vor und entwickelt zu diesem Zweck neue distant reading-Tools. Ziel ist die vergleichende Untersuchung dreier mittelalterlicher Erzählgattungen, nämlich der mittelhochdeutschen
+Adaptationen der trois matières. Differenzkriterium zwischen Antikenroman, Artusroman und chanson de geste-Epik des 12. und 13. Jahrhunderts ist für die mediävistische Forschung bislang der Inhalt. Ob sich messbare Gemeinsamkeiten und Unterschiede dieser Gattungen auf Ebene des rhetorischen Stils finden lassen, wurde übergreifend nie untersucht. Für die kontroverse Diskussion über den Grad an Gattungsbewusstsein mittelalterlicher Autoren und über mittelalterliche Gattungskonzepte wäre eine solche Untersuchung ebenso erhellend wie für die Frage, welche Relevanz die im mittelalterlichen Schulunterricht gelernten rhetorischen Stilmittel für die Praxis volkssprachiger Dichtung besaßen. Zu
+überprüfen ist, ob Auswahl, Einsatz und Häufung der spezifischen Stilmittel Szenentypenabhängig sind und ob es dabei (näher zu bestimmende) Unterschiede der jeweiligen Gattungen oder nur der einzelnen Autoren oder der Entstehungszeiten der Werke gibt. Eine
+derartige, großflächige Analyse erfordert computationelle Werkzeuge des distant reading, die aber für die Erkennung der meisten Stilmittel – erst recht für mittelhochdeutsche Literatur – noch unterentwickelt sind. Zu diesem Zweck erarbeitet das Projekt neue Methoden stilometrischer Literaturuntersuchung und baut dabei auf Verfahren der Anomalie-Detektion und des aktiven und lebenslangen maschinellen Lernens auf. Denn Stilmittel lassen sich als Anomalien verstehen und für ein statistisches Verfahren als solche erkennbar machen, als Abweichungen also von der quantitativen Norm, wie sie das Gros des Textkorpus abbildet (so ist z. B. ein Chiasmus im Rahmen meist nicht-chiastischer Strukturen eine Anomalie). Um zeitraubende händische Annotation zu minimieren, bedient sich das Projekt Techniken des active and lifelong learning; angestrebt wird dabei ein halbüberwachtes Lernverfahren, indem zunächst das Programm unüberwacht Anomalien
+lokalisiert und sich sodann in einem interaktiven Prozess unter stetiger Einbeziehung des Nutzers durch sukzessive Integration theoretischen Strukturwissens oder kleiner annotierter Datenproben verfeinert, sodass spezifische Stilmittel besser erkannt werden. Exemplarisch sollen so zwei Stilmittel – eine Wortstellungsfigur und eine Trope – computationell identifizierbar gemacht werden: neben dem Chiasmus die Metapher, die durch das ungewöhnliche Zusammenspiel von z. B. in word-embeddings reflektierten Wortbedeutungen ebenfalls als Anomalie charakterisierbar ist. Die am Neuhochdeutschen trainierten wordembeddings sollen schließlich für die mittelhochdeutsche Literatur kompatibel gemacht werden.&lt;/p&gt;</content><author><name>Dr. Steffen Pielström</name></author><summary type="html">Joachim Denzler &amp; Sophie Marshall</summary></entry><entry xml:lang="de"><title type="html">The beginnings of modern poetry - Modeling literary history with text similarities</title><link href="https://dfg-spp-cls.github.io/projects_en/de/2020/01/24/TP-Beginnings_of_Poetry/" rel="alternate" type="text/html" title="The beginnings of modern poetry - Modeling literary history with text similarities" /><published>2020-01-24T00:00:00+00:00</published><updated>2020-01-24T00:00:00+00:00</updated><id>https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Beginnings_of_Poetry</id><content type="html" xml:base="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Beginnings_of_Poetry/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Simone Winko &amp;amp; Fotis Jannidis&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Entschuldigen Sie bitte, es ist noch keine Übersetzung dieses Artikels vorhanden.&lt;/p&gt;</content><author><name>Dr. Steffen Pielström</name></author><summary type="html">Simone Winko &amp; Fotis Jannidis</summary></entry><entry xml:lang="de"><title type="html">CHYLSA (Children’s and Youth Literature Sentiment Analysis)*</title><link href="https://dfg-spp-cls.github.io/projects_en/de/2020/01/24/TP-CHYLSA/" rel="alternate" type="text/html" title="CHYLSA (Children’s and Youth Literature Sentiment Analysis)*" /><published>2020-01-24T00:00:00+00:00</published><updated>2020-01-24T00:00:00+00:00</updated><id>https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-CHYLSA</id><content type="html" xml:base="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-CHYLSA/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Berenike Herrmann, Arthur Jacobs, Moniek Kuijpers, Gerhard Lauer &amp;amp; Jana Lüdtke&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Entschuldigen Sie bitte, es ist noch keine Übersetzung dieses Artikels vorhanden.&lt;/p&gt;</content><author><name>Dr. Steffen Pielström</name></author><summary type="html">Berenike Herrmann, Arthur Jacobs, Gerhard Lauer &amp; Jana Lüdtke</summary></entry><entry xml:lang="de"><title type="html">Computer-aided Analysis of Unreliability and Truth in Fiction – Interconnecting and Operationalizing Narratology (CAUTION)</title><link href="https://dfg-spp-cls.github.io/projects_en/de/2020/01/24/TP-Caution/" rel="alternate" type="text/html" title="Computer-aided Analysis of Unreliability and Truth in Fiction – Interconnecting and Operationalizing Narratology (CAUTION)" /><published>2020-01-24T00:00:00+00:00</published><updated>2020-01-24T00:00:00+00:00</updated><id>https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Caution</id><content type="html" xml:base="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Caution/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Jonas Kuhn &amp;amp; Janina Jacke&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Entschuldigen Sie bitte, es ist noch keine Übersetzung dieses Artikels vorhanden.&lt;/p&gt;</content><author><name>Dr. Steffen Pielström</name></author><summary type="html">Jonas Kuhn &amp; Janina Jacke</summary></entry><entry xml:lang="de"><title type="html">Comparative Annotation to Explore and Explain Text Similarities (CompAnno)</title><link href="https://dfg-spp-cls.github.io/projects_en/de/2020/01/24/TP-CompAnno/" rel="alternate" type="text/html" title="Comparative Annotation to Explore and Explain Text Similarities (CompAnno)" /><published>2020-01-24T00:00:00+00:00</published><updated>2020-01-24T00:00:00+00:00</updated><id>https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-CompAnno</id><content type="html" xml:base="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-CompAnno/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Julia Nantke &amp;amp; Nils Reiter&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Projekt CompAnno entwickelt einen vergleichenden Annotationsworkflow zur
+Erforschung und Erklärung von Textähnlichkeiten hinsichtlich der Darstellung von
+Figureneigenschaften. Wir konzentrieren uns auf literarische Figuren, da diese Kategorie
+sowohl für die Gestaltung literarischer Texte im Allgemeinen als auch für die Herstellung und
+Interpretation intertextueller Beziehungen zentral ist. Im Gegensatz zu etablierten
+Annotationsansätzen beruht die vergleichende Annotation auf der gleichzeitigen Betrachtung
+mehrerer Textausschnitte. Die Zuweisung von Figureneigenschaften erfolgt zunächst
+manuell im Vergleich der Textausschnitte. Anhand einer großen Sammlung von annotierten
+Paaren bringen wir die Ähnlichkeiten in eine Rangfolge, die wiederum zum Trainieren eines
+maschinellen Lernsystems verwendet wird. Der vergleichende Annotationsprozess führt zu
+einer partiellen Ordnung für jede Eigenschaft. Der Hauptvorteil dieses Ansatzes besteht
+darin, dass er nicht nur die Annotation intertextueller Beziehungen unterstützt, sondern
+generell die Annotation abstrakter, interpretationsbezogener Textmerkmale wie die
+Beschreibung und Charakterisierung literarischer Figuren ermöglicht.
+Wir setzen verschiedene technische Verfahren ein, die unterschiedliche Perspektiven auf die
+gestellte Aufgabe bieten. Grundsätzlich können drei Perspektiven unterschieden werden: 1.
+Wenn man es als Document-Retrieval-Aufgabe betrachtet, kann ein technisches System
+den Nutzenden Ausschnitte liefern, die dem zu untersuchenden Text in Bezug auf die
+Darstellung einer Figureneigenschaft ähnlich sind. Dies offenbart (potentiell neue)
+intertextuelle Beziehungen. 2. Wenn das Problem als Ranking-Aufgabe formuliert wird, kann
+ein System ein Ranking der bereitgestellten Textausschnitte nach der Ausprägung einer
+Eigenschaft erstellen. Dies eröffnet auch den Zugang zu (einigen Aspekten) der
+Figurengestaltung im Allgemeinen. 3. Wenn die Ähnlichkeit selbst im Mittelpunkt steht, kann
+ein Ranking-System auf Textausschnitt-Paare angewendet werden, um über eine Menge
+von Ausschnitten ein Ranking aller Paare nach ihrer Ähnlichkeit zu erstellen. In diesem Fall
+wird die Ähnlichkeit auch durch das Fehlen oder den geringen Wert einer Eigenschaft
+verursacht (z. B. können zwei Ausschnitte ähnlich sein, weil die darin enthaltenen Figuren
+beide nicht bösartig sind). In allen Fällen erfolgt im Projekt eine Reintegration dieser
+quantitativen Ergebnisse in den literaturwissenschaftlichen Diskurs, indem wir Guidelines für
+ihre Interpretation bereitstellen.
+Das Projekt zielt also auf zwei konkrete Ergebnisse ab: Zum einen entwickeln wir den ersten
+Workflow für eine computergestützte Untersuchung von Intertextualität und Textähnlichkeit,
+der über die Erkennung von text-reuse hinausgeht und nicht auf ein festes Korpus bezogen
+ist. Zum anderen zeigen wir einen neuen Weg für die Arbeit mit interpretativen Kategorien
+auf, die in der computergestützten Literaturwissenschaft häufig vorkommen und von großem
+Interesse sind.&lt;/p&gt;</content><author><name>Dr. Steffen Pielström</name></author><summary type="html">Julia Nantke &amp; Nils Reiter</summary></entry><entry xml:lang="de"><title type="html">Computergestützte Zugänge zu narrativem Raum im Roman des 19. und 20. Jahrhunderts (CANSpiN)</title><link href="https://dfg-spp-cls.github.io/projects_en/de/2020/01/24/TP-Computational_Approaches_to_Narrative_Space/" rel="alternate" type="text/html" title="Computergestützte Zugänge zu narrativem Raum im Roman des 19. und 20. Jahrhunderts (CANSpiN)" /><published>2020-01-24T00:00:00+00:00</published><updated>2020-01-24T00:00:00+00:00</updated><id>https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Computational_Approaches_to_Narrative_Space</id><content type="html" xml:base="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Computational_Approaches_to_Narrative_Space/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Ulrike Henny-Krahmer, Roger Labahn &amp;amp; Holger Helbig&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ulrike Henny-Krahmer, Roger Labahn &amp;amp; Holger Helbig
+Die Literaturtheorie bietet ausgearbeitete Konzepte zur Beschreibung des narrativen Raums, der hier als der konkrete Raum der erzählten Welt verstanden wird, in dem Figuren leben, handeln und sich bewegen. Um die vorhandenen Konzepte jedoch in computergestützten Analysen nutzen zu können, müssen sie formalisiert und auf Merkmale abgebildet werden, die auf der sprachlichen Oberfläche der Texte erfasst werden können. Insbesondere für Ansätze des Distant Reading ist es notwendig, Algorithmen zu entwickeln, die eine automatische Annotation der Merkmale ermöglichen. Für die computergestützte, quantitative Analyse des narrativen Raums wurden bisher allerdings nur wenige Vorarbeiten geleistet.
+Um eine solide Basis für weitere computergestützte Forschung zu schaffen, wollen wir Methoden zur Erkennung räumlicher Entitäten entwickeln, d.h. aller Arten von Verweisen auf den narrativen Raum in literarischen Texten, wie z.B. Toponyme, allgemeine raumbezogene Substantive oder deiktische Ausdrücke. Für diese Aufgabe verwenden wir bestehende semantische Wortnetze und Techniken des maschinellen Lernens, insbesondere neuronale Netze, die in der Lage sind, den sprachlichen Kontext der relevanten Raumbezüge zu berücksichtigen. Zusätzlich zur grundlegenden Erkennung der räumlichen Entitäten werden Methoden entwickelt, um diese in übergeordnete Kategorien zu klassifizieren, wie z.B. Erwähnungen von Raum, die direkt für die Handlung relevant sind, vs. Beschreibungen des Settings vs. weitere, andere Referenzen auf räumliche Entitäten. Ein drittes Ziel des Projekts ist es, sich der semantischen Struktur von Erzählwelten und der symbolischen Bedeutung von Teilräumen zu nähern, indem das Auftreten von Raumbezügen in den Texten mit Topics und Sentiments verknüpft wird.
+Die empirische Grundlage bilden Korpora von spanisch- und deutschsprachigen Romanen aus dem 19. und 20. Jahrhundert, die ausgewählt wurden, um mehrsprachige und/oder sprachunabhängige Lösungen zu entwickeln. Durch manuelle Annotation werden Goldstandard-Referenzdaten erstellt, die dann für die Evaluierung der Methoden verwendet werden. Aus einer literaturgeschichtlichen Perspektive wird untersucht, wie die Darstellung von Raum in den Romanen mit Fragen nationaler, regionaler und anderer raumbezogener Identitäten zusammenhängt, in Anlehnung an das Konzept der “imagined communities” (Anderson). Dies geschieht, indem die Analyse der räumlichen Bezüge in den Texten mit den Nationalitäten der Autoren, den Erscheinungsorten der Romane und den Themen der Texte verknüpft wird. Mit den korpusbasierten Studien werden bestehende literaturgeschichtliche Fragestellungen wie die Rolle von Romanen im Prozess der Nationenbildung im 19. Jahrhundert und ihre Funktion bei der Herausbildung zweier deutscher Identitäten in der Nachkriegsliteratur des 20. Jahrhunderts mit neuen, computergestützten Methoden und auf einer breiteren empirischen Basis als bisher bearbeitet, um bisherige Forschungsergebnisse zu stützen und zu erweitern.
+Weitere Informationen finden Sie auf der Projektwebsite: &lt;a href=&quot;https://www.canspin.uni-rostock.de/&quot;&gt;https://www.canspin.uni-rostock.de/ &lt;/a&gt;&lt;/p&gt;</content><author><name>Dr. Steffen Pielström</name></author><summary type="html">Ulrike Henny-Krahmer, Roger Labahn &amp; Holger Helbig</summary></entry><entry xml:lang="de"><title type="html">Emotions in Drama</title><link href="https://dfg-spp-cls.github.io/projects_en/de/2020/01/24/TP-Emotions_in_Drama/" rel="alternate" type="text/html" title="Emotions in Drama" /><published>2020-01-24T00:00:00+00:00</published><updated>2020-01-24T00:00:00+00:00</updated><id>https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Emotions_in_Drama</id><content type="html" xml:base="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Emotions_in_Drama/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Katrin Dennerlein &amp;amp; Christian Wolff&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;Abstract:&lt;/h2&gt;
+
+&lt;p&gt;Although the depiction and evocation of emotions are at the heart of dramatic production and poetological reflection since Aristotle quantitative drama analysis has neglected them so far. This is why the project aims at extracting emotions of characters and analyzing their appraisal with sentiment analysis. As emotions are highly depended on cultural and historical circumstances we chose to look at the historical phase starting from the  end of Thirty Years’ War up to restoration period in the 19th century during which German drama was established. This is a story of developing various subgenres which vary with respect to their thematization and presentation of emotions, mostly termed ‘Affekte’ in that period. The project relies on a corpus of German drama which is significantly enlarged compared to the available one for that period, the Textgrid corpus. It now comprises another 25 libretti of the Hamburger Gänsemarktoper from the period between 1678 and 1730, another 20 libretti from around 1800 as well as 20 texts from the strolling players. This enables us to research the most important dramatic (sub-)genre for the development of affect expression, the libretti of musical theatre, in its influences on spoken theatre.
+In a first step models for the analysis of emotion in dramatic texts shall be evaluated with regard to their use for digital analysis. Retrievable linguistic as well as rhetorical means are specified and extracted for whole texts as well as for elements of dramatic texts specifically dedicated to the depiction of affects: stage directions, soliloquies, arias and endings of drama. Human annotators will specify for genre-specific subcorpora which emotions are mentioned (for example happiness, love, sorrow, envy). They will also annotate if these emotions are evaluated positively or negatively. In a next step algorithms of sentiment analysis shall be trained on this material. It is an important goal of the project to approve the method of sentiment analysis for its use on historical, especially fictional, corpora.
+Having done all this work we should be able to identify pathos-strategies, id est passages of texts with a high arousal of emotions and to give first hints as to which emotions are thematized with which appraisal. Another objective is the revision of the history of the comic character and its relation to the emotion of happiness.&lt;/p&gt;
+
+&lt;h2&gt;Emotion set:&lt;/h2&gt;
+&lt;p&gt;(+ marks rather positive emotions, - negative)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Emotions of affection / Zuneigung&lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;desire / Lust (+)&lt;/li&gt;
+    &lt;li&gt;love / Liebe (+)&lt;/li&gt;
+    &lt;li&gt;friendship / Freundschaft (+)&lt;/li&gt;
+    &lt;li&gt;admiration, reverence / Verehrung, Bewunderung (+)&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;li&gt;Emotions of pleasure / Freude und Glück&lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;joy / Freude (+)&lt;/li&gt;
+    &lt;li&gt;Schadenfreude (+)&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;li&gt;Emotions of anxiety / Angst und Sorge&lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;fear / Angst (-)&lt;/li&gt;
+    &lt;li&gt;despair / Verzweiflung (-)&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;li&gt;Emotions of rejection / Ablehnung &lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;anger / Ärger (-)&lt;/li&gt;
+    &lt;li&gt;abhorrence / Abscheu, Wut, Hass (-)&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;li&gt;Emotions of suffering and empathy / Leid&lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;suffering / Leid (-)&lt;/li&gt;
+    &lt;li&gt;compassion / Mitleid (-)&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;li&gt;no main class&lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;being moved / emotionale Bewegtheit (undetermined)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Annotated Plays &lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Andreas Gryphius: Katharina von Georgien (1657), tragedy&lt;/li&gt;
+  &lt;li&gt;Der Welt Erschröckende Attila (nach 1682)&lt;/li&gt;
+  &lt;li&gt;Christian Weise: Massaniello (1683), tragedy&lt;/li&gt;
+  &lt;li&gt;Christian Weise:  Ein wunderliches Schau-Spiel vom niederländischen Bauer (1669), comedy
+&lt;/li&gt;
+  &lt;li&gt;Die getreue Sclavin Doris (1720)&lt;/li&gt;
+  &lt;li&gt;Luise Adelgunde Victorie Gottsched: Das Testament (1745), comedy&lt;/li&gt;
+  &lt;li&gt;Johann Elias Schlegel: Canut (1746), tragedy&lt;/li&gt;
+  &lt;li&gt;Christian Fürchtegott Gellert: Die zärtlichen Schwestern (1747), comedy&lt;/li&gt;
+  &lt;li&gt;Johann Gottlieb Benjamin Pfeil: Lucie Woodvil (1757), tragedy &lt;/li&gt;
+  &lt;li&gt;Joachim Wilhelm von Brawe: Der Freigeist (1758), tragedy&lt;/li&gt;
+  &lt;li&gt;Gotthold Ephraim Lessing: Minna von Barnhelm, oder das Soldatenglück (1767), comedy&lt;/li&gt;
+  &lt;li&gt;Cornelius von Ayrenhoff: Der Postzug (1769), comedy&lt;/li&gt;
+  &lt;li&gt;Friedrich Schiller: Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen (1784), tragedy&lt;/li&gt;
+  &lt;li&gt;Ferdinand Eberl: Kasperl' der Mandolettikrämer (1789), comedy [Libretto]&lt;/li&gt;
+  &lt;li&gt;August von Kotzebue: Menschenhass und Reue (1790), comedy&lt;/li&gt;
+  &lt;li&gt;Friedrich Schiller: Wallensteins Lager (1800), tragedy&lt;/li&gt;
+  &lt;li&gt;Johann Wolfgang Goethe: Faust. Eine Tragödie (1807), tragedy&lt;/li&gt;
+  &lt;li&gt;Daniel Caspar von Lohenstein: Ibraim Sultan (1653), tragedy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Achievements&lt;/h2&gt;
+
+&lt;p&gt;In the first half of the project EmoDrama I, we advanced the research areas of CLS, NLP and German literary studies by:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Extending preexisting corpora for plays of the time frame 1650-1815 with non-canonical works in machine readable TEI format,&lt;/li&gt;
+  &lt;li&gt;operationalizing the variety of historical emotion terms, emotion concepts and aspects of emotion presentation for a drama-historical question,&lt;/li&gt;
+  &lt;li&gt;defining 13 historical emotion concepts in a historically adequate way, &lt;/li&gt;
+  &lt;li&gt;providing comprehensive annotation guidelines with numerous complex examples from drama texts on the individual emotion concepts, on source and target, on negation and on the distinction between expressed, attributed and pretended emotion, &lt;/li&gt;
+  &lt;li&gt;annotating 17 plays that can be used for analysis and machine learning,&lt;/li&gt;
+  &lt;li&gt;analyzing the annotations of plays and reflect upon the usage of quantitative annotation analysis for literary studies,&lt;/li&gt;
+  &lt;li&gt;evaluating multiple baseline and state-of-the-art methods for single-label emotion classification (Schmidt, Dennerlein, Wolff 2021b)&lt;/li&gt;
+  &lt;li&gt;training models optimized for our specific task (Schmidt, Dennerlein, Wolff 2021b, Dennerlein, Schmidt, Wolff 2023)&lt;/li&gt;
+  &lt;li&gt;exploring the classified data with regard to&lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;the correlation of emotions and plot developments (Dennerlein, Schmidt, Wolff 2022a; Dennerlein, Schmidt, Wolff 2022b)&lt;/li&gt;
+    &lt;li&gt;the distinciton of tragedy endings from comedy endings on the basis of their emotional footprint (Dennerlein, Schmidt, Wolff 2023)&lt;/li&gt;
+    &lt;li&gt;the frequency distributions of emotions in the overall corpus and the major genres comedy and tragedy: anger shows up to be one of the most prominent emotions in comedies (Dennerlein, Schmidt, Wolff
+      2023)&lt;/li&gt;
+    &lt;li&gt;Emotions which are already discussed more frequently in stage directions from 1730 onwards, and not only since 1770 (Dennerlein, Schmidt, Wolff in print).&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Publications:&lt;/h2&gt;
+&lt;ul&gt;
+    &lt;li&gt;Dennerlein, K., Schmidt, T. &amp;amp; Wolff, C. Computational Emotion Classification for genrecorpora of German Tragedies and Comedies from 17th to 19th century. Digital Scholarship in the Humanities (DSH). &lt;a href=&quot;https://doi.org/10.1093/llc/fqad046&quot;&gt;https://doi.org/10.1093/llc/fqad046&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Dennerlein, K., Schmidt, T. &amp;amp; Wolff, C. (in print). Emotions in Stage Directions in German Drama of the Early Modern Period: Explorations via Computational Emotion Classification. In: Melanie Andresen/Nils Reiter/Benjamin Krautter/Janis Pagel (Hg.): Computational Drama Analysis: Achievements and Opportunities. Berlin/New York: de Gruyter, S. 166-194.&lt;/li&gt;
+    &lt;li&gt;Brandes, Ph., Dennerlein, K., Jacke, J., Marshall, S., Pielström, St., Schneider, F. Modelling and Operationalizing Concepts in Computational Literary Studies. In Book of Abstracts DH 2022. Tokyo, Japan 2022, S. 70–73.&lt;/li&gt;
+  &lt;li&gt;Dennerlein, K., Huber, M. (2022). Reports on Modelling dramatic metadata. With examples of communicative relevance of female playwrights in the second half of the 18th century. In &lt;i&gt;Book of Abstracts, Digital Humanities Nord 2022&lt;/i&gt;. Uppsala, Sweden.&lt;/li&gt;
+    &lt;li&gt;Dennerlein, K., Schmidt, T. &amp;amp; Wolff, C. (2022). Emotionen im kulturellen Gedächtnis bewahren. In &lt;i&gt;DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022.&lt;/i&gt; Potsdam, Germany. &lt;a href=&quot;https://doi.org/10.5281/zenodo.6327957&quot;&gt;https://doi.org/10.5281/zenodo.6327957&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dennerlein, K., Schmidt, T. &amp;amp; Wolff, C. (2022). &lt;i&gt;Figurenemotionen in deutschsprachigen Dramen annotieren.&lt;/i&gt;&amp;lt; Zenodo. &lt;a href=&quot;https://doi.org/10.5281/zenodo.6228151&quot;&gt;https://doi.org/10.5281/zenodo.6228151&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Schmidt, T., Dennerlein K. &amp;amp; Wolff, C. (2022). Evaluation computergestützter Verfahren der Emotionsklassifikation für deutschsprachige Dramen um 1800. In &lt;i&gt;DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022.&lt;/i&gt; Potsdam, Germany. &lt;a href=&quot;https://doi.org/10.5281/zenodo.6328169&quot;&gt;https://doi.org/10.5281/zenodo.6328169&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Dennerlein, K. (2021). &lt;i&gt;Materialien und Medien der Komödiengeschichte. Zur Praxeologie der Werkzirkulation zwischen Hamburg und Wien von 1678–1806 (Studien und Texten zur Sozialgeschichte der deutschen Literatur 152).&lt;/i&gt; Berlin/New York: de Gruyter. &lt;a href=&quot;https://doi.org/10.1515/9783110691191&quot;&gt;https://doi.org/10.1515/9783110691191&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Schmidt, T., Dennerlein, K., &amp;amp; Wolff, C. (2021). Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language. In &lt;i&gt;Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature&lt;/i&gt; (pp. 67-79). &lt;a href=&quot;https://doi.org/10.18653/v1/2021.latechclfl-1.8&quot;&gt;https://doi.org/10.18653/v1/2021.latechclfl-1.8&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Schmidt, T., Dennerlein, K., &amp;amp; Wolff, C. (2021). Towards a Corpus of Historical German Plays with Emotion Annotations. In &lt;i&gt;3rd Conference on Language, Data and Knowledge (LDK 2021)&lt;/i&gt;. Dagstuhl, Germany: Schloss Dagstuhl-Leibniz-Zentrum für Informatik. &lt;a href=&quot;https://doi.org/10.4230/OASIcs.LDK.2021.9&quot;&gt;https://doi.org/10.4230/OASIcs.LDK.2021.9&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Schmidt, T., Dennerlein, K. &amp;amp; Wolff, C. (2021). Using Deep Learning for Emotion Analysis of 18th and 19th Century German Plays. In: Burghardt, M. et al. (Edt.). &lt;i&gt;Fabrikation von Erkenntnis: Experimente in den Digital Humanities.&lt;/i&gt; Esch-sur-Alzette: Melusina Press. &lt;a href=&quot;https://doi.org/10.26298/melusina.8f8w-y749-udlf&quot;&gt;https://doi.org/10.26298/melusina.8f8w-y749-udlf&lt;/a&gt;&lt;/li&gt;  
+  &lt;/ul&gt;
+
+&lt;h2&gt;Talks and further material:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt; Schmidt, T., Dennerlein, K. &amp;amp; Wolff, C. (2022, accepted). Insights and Perspectives of the Research project ‘Emotions in Drama’. In &lt;i&gt;Computational Stylistics Workshop on Emotion and Sentiment Analysis in Literature&lt;/i&gt;. Paris, France.
+  &lt;li&gt;Presentation at the University Göttingen: &quot;Emotion und Gattung. Zur Analyse von Dramen um 1800.&quot; (December 20th, 2021).&lt;/li&gt;
+  &lt;li&gt;Keynote at the workshop &quot;Sentiment Analysis in Literary Studies&quot; at the University of Graz in February 2021.&lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://informationsmodellierung.uni-graz.at/de/institut/veranstaltungen/sentiment-analysis-in-literary-studies-2021/&quot;&gt;More Information about the Workshop&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://youtu.be/WvJ8BvaSJCw&quot;&gt;Video to the Keynote: Annotating and quantifying sentiment and emotions in German plays from around 1800&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.uni-wuerzburg.de/fileadmin/uniwue/Presse/EinBLICK/2020/PDFs/ar202023.pdf&quot;&gt;Official Press Release (in German)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Participation at the Digital Humanities Day in Leipzig&lt;/li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://fdhl.info/dhdl-2020/&quot;&gt;Digital Humanities Day Leipzig (DHDL) - Schedule&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://fdhl.info/wp-content/uploads/2020/12/Poster_DINA4.pdf&quot;&gt;Poster (in German)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://youtu.be/9DdybUzN92E&quot;&gt;Video for the Poster Slam (in German)&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  
+ &amp;lt;/ul&amp;gt;
+ 
+ &lt;h2&gt;Contact:&lt;/h2&gt;
+&lt;ul&gt;
+    &lt;li&gt;Katrin Dennerlein:&lt;/li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;katrin.dennerlein@uni-wuerzburg.de&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/mitarbeiter/dennerlein/&quot;&gt;Webseite&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;li&gt;Christian Wolff:&lt;/li&gt;
+  &lt;ul&gt;
+      &lt;li&gt;christian.wolff@ur.de&lt;/li&gt;
+      &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/chriswolff&quot;&gt;@chriswolff&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/christian-wolff/&quot;&gt;Webseite&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;li&gt;Thomas Schmidt:&lt;/li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;thomas.schmidt@ur.de&lt;/li&gt;
+      &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/thomasS_UniR&quot;&gt;@thomasS_UniR&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html&quot;&gt;Webseite&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;&lt;/ul&gt;</content><author><name>Dr. Steffen Pielström</name></author><summary type="html">Katrin Dennerlein &amp; Christian Wolff</summary></entry><entry xml:lang="de"><title type="html">Evaluating Events in Narrative Theory</title><link href="https://dfg-spp-cls.github.io/projects_en/de/2020/01/24/TP-EvENT/" rel="alternate" type="text/html" title="Evaluating Events in Narrative Theory" /><published>2020-01-24T00:00:00+00:00</published><updated>2020-01-24T00:00:00+00:00</updated><id>https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-EvENT</id><content type="html" xml:base="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-EvENT/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Evelyn Gius &amp;amp; Chris Biemann&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Entschuldigen Sie bitte, es ist noch keine Übersetzung dieses Artikels vorhanden.&lt;/p&gt;</content><author><name>Dr. Steffen Pielström</name></author><summary type="html">Evelyn Gius &amp; Chris Biemann</summary></entry><entry xml:lang="de"><title type="html">Quantitative Drama Analytics: Tracking Character Knowledge (Q:TRACK)</title><link href="https://dfg-spp-cls.github.io/projects_en/de/2020/01/24/TP-QTrack/" rel="alternate" type="text/html" title="Quantitative Drama Analytics: Tracking Character Knowledge (Q:TRACK)" /><published>2020-01-24T00:00:00+00:00</published><updated>2020-01-24T00:00:00+00:00</updated><id>https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-QTrack</id><content type="html" xml:base="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-QTrack/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Nils Reiter &amp;amp; Marcus Willand&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Forschungsprojekt Q:TRACK verknüpft Ziele in den zwei Forschungsbereichen Literatur-/Theatergeschichte und computergestützte Literaturwissenschaft. Im ersten Bereich streben wir neue Erkenntnisse darüber an, wie soziales Wissen genutzt wird, um den dramatischen Konflikt in Dramen voranzutreiben oder zu lösen. Wir konzentrieren uns zunächst auf die Verbreitung von Wissen innerhalb der dramatischen Welt eines einzelnen Stückes. Ergebnis dieses ersten Schrittes wird ein formales Modell des Wissens sein, das jede Figur sowie das Publikum in jedem Segment (Akt, Szene, Auftritt) hat und dazu gewinnt. Ein solches Modell, sobald es einmal etabliert ist, ermöglicht es, Beziehungen zu visualisieren und Inferenzen abzuleiten. Damit kann einerseits close reading unterstützt werden, andererseits auch ein systematischer Vergleich zwischen Dramen erleichtert. Sobald solche Modelle automatisch erstellt werden können, können die Disseminationsmuster aus dramenhistorischer Sicht betrachtet werden, um z.B. zu fragen, wie sie sich im Laufe der Jahrhunderte verändern. Ein Disseminationsmuster ist eine Verallgemeinerung des Modells aus mehreren Dramen indem über individuelle Figuren abstrahiert und Variationen in den Details ignoriert werden. Ein solches Muster könnte sein, dass das Faktum, das die Anagnorisis auslöst, durch eine Figur vermittelt wird, die nicht an der eigentlichen Beziehung beteiligt ist (z.B. Boten oder Diener).
+Um unsere literar- und dramaturhistorischen Ziele zu verfolgen, rekonstruieren wir so systematisch Konstellationen, Modi und Techniken der dramatischen Wissensverteilung. Indem wir einen multiperspektivischen Blick auf Figuren- und Publikumswissen werfen, sichern wir uns nicht nur einen nicht-interpretiven Zugang zu den Dramen. Wir bieten auch einen intersubjektiven, meta-historischen Ansatz zur Identifizierung von Textelementen, die angeblich als Sympathie- und Empathiekontrolle der Leser fungieren und dramatische Effekte wie die Reinigung von Emotionen (Katharsis) auslösen.&lt;/p&gt;
+
+&lt;p&gt;URL: &lt;a href=&quot;https://quadrama.github.io&quot;&gt;quadrama.github.io&lt;/a&gt;&lt;/p&gt;</content><author><name>Dr. Steffen Pielström</name></author><summary type="html">Nils Reiter &amp; Marcus Willand</summary></entry><entry xml:lang="de"><title type="html">Relating the Unread - Netzwerkmodelle in der Literaturgeschichte</title><link href="https://dfg-spp-cls.github.io/projects_en/de/2020/01/24/TP-Relating_the_Unread/" rel="alternate" type="text/html" title="Relating the Unread - Netzwerkmodelle in der Literaturgeschichte" /><published>2020-01-24T00:00:00+00:00</published><updated>2020-01-24T00:00:00+00:00</updated><id>https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Relating_the_Unread</id><content type="html" xml:base="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Relating_the_Unread/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Ulrik Brandes &amp;amp; Thomas Weitin&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In einem Mixed-Methods-Ansatz zur Literaturgeschichte modellieren wir Textbeziehungen als Netzwerke, um zu verstehen, wie sich Gruppen relativ zur Art und Weise der Korpuszusammenstellung herausbilden.
+Die computergestützte Analyse großer Datenmengen hängt nicht nur von den eingesetzten Methoden, sondern auch von der gewählten Datengrundlage und mithin von den Korpora ab, aus denen die Daten gewonnen werden. Korpora sind selten repräsentative Samples: Sie haben einen opportunistischen Charakter und werden nach bestimmten Forschungsfragen zusammengestellt. Ihre Komposition unterliegt einem meist impliziten Vorverständnis, das der Analyse von Textbeziehungen, der Statusposition von Texten im Verhältnis zu anderen und der für Gruppenbildung ausschlaggebenden Kategorisierung nicht äußerlich bleibt.
+In unserem Projekt werden wir Netzwerkmodelle von deutsch- und englischsprachigen Korpora von Romanen und Erzähltexten des 18. und 19. Jahrhunderts entwickeln, die stylometrische, semantische und aus Annotation generierte Daten als unterschiedliche Vergleichsebenen zusammenführen. Ziel ist es, die Entstehung von Gattungskonventionen, Subgattungen und Epochenstil innerhalb dieser literaturgeschichtlich entscheidenden Periode aus einem neuen Licht erscheinen zu lassen. Mit Blick auf die literarische Kommunikation der Zeit achten wir besonders auf diejenigen Texte und Autoren, die in der Literaturgeschichte marginalisiert worden sind, wobei das Augenmerk vor allem auf den Positionen liegt, die wir für Schriftstellerinnen im Verhältnis zum kanonischen Teil der Literaturgeschichte ausmachen können.
+Neben der Entwicklung von Modellen und Algorithmen setzen wir Korpusmanipulation als eine heuristische Methode zur Erforschung von Gruppierungsprozessen und zum kombinierten synchronen und diachronen Korpusvergleich ein. Die Beobachtung, wie sich Gruppen auf einer bestimmten Datenebene bilden und auf einer anderen auflösen oder wie sie je nach zeitlicher Zusammenstellung entstehen und vergehen, hilft uns zu verstehen, was Textbeziehungen in systematischer und historischer Perspektive ausmacht.&lt;/p&gt;</content><author><name>Dr. Steffen Pielström</name></author><summary type="html">Ulrik Brandes &amp; Thomas Weitin</summary></entry></feed>
