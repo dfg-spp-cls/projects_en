@@ -1,7 +1,7 @@
 name: GitHub Pages publication
 
 on:
-  push
+ push
 
 jobs:
   jekyll:
@@ -28,6 +28,6 @@ jobs:
     - uses: helaili/jekyll-action@v2
       with:
         token: ${{ secrets.CLS_PRO }}
-        target_branch: 'gh-pages'
+        #target_branch: 'gh-pages'
 
 
