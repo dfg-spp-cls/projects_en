@@ -1,7 +1,7 @@
 name: GitHub Pages publication
 
 on:
- push
+ #push
 
 jobs:
   jekyll:
