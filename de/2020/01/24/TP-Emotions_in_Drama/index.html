@@ -509,13 +509,84 @@ de
 <!-- end custom article top snippet -->
 <div class="article__content" itemprop="articleBody"><p><strong><em>Katrin Dennerlein &amp; Christian Wolff</em></strong></p>
 
-<h2>Abstract:</h2>
+<h2>Abstract</h2>
 
-<p>Although the depiction and evocation of emotions are at the heart of dramatic production and poetological reflection since Aristotle quantitative drama analysis has neglected them so far. This is why the project aims at extracting emotions of characters and analyzing their appraisal with sentiment analysis. As emotions are highly depended on cultural and historical circumstances we chose to look at the historical phase starting from the  end of Thirty Years’ War up to restoration period in the 19th century during which German drama was established. This is a story of developing various subgenres which vary with respect to their thematization and presentation of emotions, mostly termed ‘Affekte’ in that period. The project relies on a corpus of German drama which is significantly enlarged compared to the available one for that period, the Textgrid corpus. It now comprises another 25 libretti of the Hamburger Gänsemarktoper from the period between 1678 and 1730, another 20 libretti from around 1800 as well as 20 texts from the strolling players. This enables us to research the most important dramatic (sub-)genre for the development of affect expression, the libretti of musical theatre, in its influences on spoken theatre.
-In a first step models for the analysis of emotion in dramatic texts shall be evaluated with regard to their use for digital analysis. Retrievable linguistic as well as rhetorical means are specified and extracted for whole texts as well as for elements of dramatic texts specifically dedicated to the depiction of affects: stage directions, soliloquies, arias and endings of drama. Human annotators will specify for genre-specific subcorpora which emotions are mentioned (for example happiness, love, sorrow, envy). They will also annotate if these emotions are evaluated positively or negatively. In a next step algorithms of sentiment analysis shall be trained on this material. It is an important goal of the project to approve the method of sentiment analysis for its use on historical, especially fictional, corpora.
-Having done all this work we should be able to identify pathos-strategies, id est passages of texts with a high arousal of emotions and to give first hints as to which emotions are thematized with which appraisal. Another objective is the revision of the history of the comic character and its relation to the emotion of happiness.</p>
+  <p>
+  Between the end of the Thirty Years' War and the onset of the Restoration period, drama experienced rapid development and emerged as the most popular literary genre in the German-speaking world. During this time, it evolved into a 'school of affects,' with a focus on eliciting desired emotions while also instructing audiences on how to manage undesirable ones, such as fear, envy, or suffering. While the depiction and evocation of emotions have always been central to dramatic works, quantitative analysis of emotions in drama has been largely overlooked. In response, Emotions in Drama seeks to extract and analyze the emotions of characters, particularly within the historical context spanning the end of the Thirty Years' War through the Restoration period.
+  </p>
 
-<h2>Emotion set:</h2>
+  <p>
+    Traditionally, literary studies have not employed quantitative methodologies for studying emotions in drama, though individual emotions or small corpora have been the subject of numerous studies. These existing studies underscore the significance of emotional representation in drama during this period and within German literary studies more broadly. The Emotions in Drama project, however, pioneers the digital analysis of emotions in German-language dramas from 1650 to 1815, making it one of the first initiatives to train large language models (LLMs) specifically for addressing a literary studies question.
+  </p>
+
+  <p>
+    The project began by developing historical emotion concepts and detailed annotation guidelines for 13 discrete emotions, including joy, suffering, love, and admiration. Subsequently, 18 dramas were annotated with emotional tags by human annotators. The resulting annotated corpus now contains 21,000 emotion annotations and over 46,000 source-target annotations (Dennerlein/Schmidt/Wolff, 2023b). These annotations were then subjected to in-depth analysis.
+  </p>
+
+  <p>
+    In addition, a machine learning-based language model (gbert), designed to capture the context-dependent meanings of words, was trained on these annotations to detect emotions in dramatic texts. Using this model, all sentences from 300 plays were classified and labeled with emotions. In total, 301,253 sentences were annotated with emotional tags.
+  </p>
+
+  <p>
+    The analysis of these classifications for the 300 dramas has already led to several novel insights. For instance, it was discovered that ‘anger’ is a distinctive emotion in comedies as compared to tragedies (Dennerlein/Schmidt/Wolff, 2023). Furthermore, the expression of emotions in stage directions began to increase significantly as early as 1730, rather than from 1770, as previously believed (Dennerlein/Schmidt/Wolff, 2024). Moreover, the success of popular comedy genres correlates strongly with elevated levels of schadenfreude, underscoring the complex relationship between emotion and audience engagement (Dennerlein/Schmidt/Wolff, 2023a).
+  </p>
+
+<h2>Definition of Emotion</h2>h2>
+  <p>
+    In the period under investigation various terms were used to describe emotional states, such as Affekt, Passion, or Gefühl. We use the metalinguistic term emotion to refer to the following phenomenon:
+  </p>
+  <ul>
+      <li>Emotions are the intended emotions experienced by and attributed to characters in dramatic texts. We assume that characters are designed in such a way that an inner emotional experience may be ascribed to them. </li>
+      <li>Emotions are fluctuating states that are experienced as both mental and physical conditions simultaneously, and are evaluated as either positive or negative. Both the cause and the directionality of emotions are important in their processing. Characters may have varying degrees of awareness of their emotions.  </li>
+      <li>Emotions are perceived as being ego-related throughout the period under study, but it is only much later that they are understood as entirely individual states. Prior to that, emotions are seen as influenced by class, gender, religious beliefs, political views, and other cultural factors (Grimm, 2010). Furthermore, dramatic texts are strongly shaped by rhetorical conventions, which begin to diminish only in the last third of the 18th century (Arnold, 2012; Schonlau, 2017, pp. 100–127).
+ </li>
+</ul>
+
+
+<h2>Achievements</h2>
+<p>EmoDrama advanced the research areas of CLS, NLP and German literary studies by:</p>
+
+<ul>
+  <li>Expanding existing corpora for plays from the 1650-1815 period to include non-canonical works in machine-readable TEI format.</li>
+  <li>Operationalising a wide range of historical emotion terms, concepts, and aspects of emotional presentation to address drama-historical questions.</li>  
+  <li>Defining 13 historical emotion concepts in a historically accurate manner. </li>
+  <li>Providing detailed annotation guidelines, with numerous complex examples from dramatic texts, covering individual emotion concepts, sources and targets, negation, and the distinction between expressed, attributed, and feigned emotions.</li>
+  <li>Annotating 17 plays suitable for analysis and machine learning applications.</li>
+  <li>Evaluating several baseline and state-of-the-art methods for single-label emotion classification (Schmidt, Dennerlein, Wolff 2021b).</li>
+  <li>Training models tailored to our specific task (Schmidt, Dennerlein, Wolff 2021b, Dennerlein, Schmidt, Wolff 2023a).</li>
+  <li>Annotating the corpus with context-sensitive emotion annotations based on historical emotion definitions, making it a unique resource for digital humanities in the field of 17th-19th century drama.</li>
+  <li>Investigating the classified data with regard to: </li>
+  <ul>
+    <li>The correlation between emotions and plot developments (Dennerlein, Schmidt, Wolff 2022a; Dennerlein, Schmidt, Wolff 2022b).</li>
+    <li>The distinction between tragedy and comedy endings based on their emotional footprints (Dennerlein, Schmidt, Wolff 2023a).</li>
+    <li>The frequency distribution of emotions across the overall corpus, and within the major genres of comedy and tragedy, revealing that anger is one of the most prominent emotions in comedies (Dennerlein, Schmidt, Wolff 2023a).</li>
+    <li>Emotions discussed more frequently in stage directions from 1730 onwards, rather than starting only in 1770 (Dennerlein, Schmidt, Wolff, 2024).</li>
+  </ul>
+</ul>
+
+<h2>Annotated Plays</h2>
+<ul>
+    <li>Lohenstein: Ibrahim Sultan (1649), tragedy</li>
+    <li>Andreas Gryphius: Katharina von Georgien (1657), tragedy</li>
+    <li>Christian Weise: Ein wunderliches Schau-Spiel vom niederländischen Bauer (1669), comedy </li>
+    <li>Der Welt Erschröckende Attila (nach 1682), play, libretto</li>
+    <li>Christian Weise: Massaniello (1683), tragedy</li>
+    <li>Die getreue Sclavin Doris (1720), play, libretto</li>
+    <li>Luise Adelgunde Victorie Gottsched: Das Testament (1745), comedy</li>
+    <li>Johann Elias Schlegel: Canut (1746), tragedy</li>
+    <li>Christian Fürchtegott Gellert: Die zärtlichen Schwestern (1747), comedy</li>
+    <li>Johann Gottlieb Benjamin Pfeil: Lucie Woodvil (1757), tragedy </li>
+    <li>Joachim Wilhelm von Brawe: Der Freigeist (1758), tragedy</li>
+    <li>Gotthold Ephraim Lessing: Minna von Barnhelm, oder das Soldatenglück (1767), comedy</li>
+    <li>Cornelius von Ayrenhoff: Der Postzug (1769), comedy</li>
+    <li>Friedrich Schiller: Kabale und Liebe. (1784), tragedy</li>
+    <li>Ferdinand Eberl: Kasperl' der Mandolettikrämer (1789), comedy, libretto</li>
+    <li>August von Kotzebue: Menschenhass und Reue (1790), comedy</li>
+    <li>Friedrich Schiller: Wallensteins Lager (1800), tragedy</li>
+    <li>Johann Wolfgang Goethe: Faust. Eine Tragödie (1807), tragedy</li>
+</ul>
+  
+<h2>Emotion set</h2>
 <p>(+ marks rather positive emotions, - negative)</p>
 <ul>
   <li>Emotions of affection / Zuneigung</li>
@@ -551,109 +622,43 @@ Having done all this work we should be able to identify pathos-strategies, id es
   </ul>
 </ul>
 
-<h2>Annotated Plays </h2>
-
+<h2>Github</h2>
+  <p>
+    The <a href="https://github.com/lauchblatt/Emotions_in_Drama">Github</a> hosts the 18 annotated plays and 313 classified ones, along with datasets from various papers across different stages of the project.
+  </p>
+  
+<h2>Publications</h2>
 <ul>
-  <li>Andreas Gryphius: Katharina von Georgien (1657), tragedy</li>
-  <li>Der Welt Erschröckende Attila (nach 1682)</li>
-  <li>Christian Weise: Massaniello (1683), tragedy</li>
-  <li>Christian Weise:  Ein wunderliches Schau-Spiel vom niederländischen Bauer (1669), comedy
-</li>
-  <li>Die getreue Sclavin Doris (1720)</li>
-  <li>Luise Adelgunde Victorie Gottsched: Das Testament (1745), comedy</li>
-  <li>Johann Elias Schlegel: Canut (1746), tragedy</li>
-  <li>Christian Fürchtegott Gellert: Die zärtlichen Schwestern (1747), comedy</li>
-  <li>Johann Gottlieb Benjamin Pfeil: Lucie Woodvil (1757), tragedy </li>
-  <li>Joachim Wilhelm von Brawe: Der Freigeist (1758), tragedy</li>
-  <li>Gotthold Ephraim Lessing: Minna von Barnhelm, oder das Soldatenglück (1767), comedy</li>
-  <li>Cornelius von Ayrenhoff: Der Postzug (1769), comedy</li>
-  <li>Friedrich Schiller: Kabale und Liebe. Ein bürgerliches Trauerspiel in fünf Aufzügen (1784), tragedy</li>
-  <li>Ferdinand Eberl: Kasperl' der Mandolettikrämer (1789), comedy [Libretto]</li>
-  <li>August von Kotzebue: Menschenhass und Reue (1790), comedy</li>
-  <li>Friedrich Schiller: Wallensteins Lager (1800), tragedy</li>
-  <li>Johann Wolfgang Goethe: Faust. Eine Tragödie (1807), tragedy</li>
-  <li>Daniel Caspar von Lohenstein: Ibraim Sultan (1653), tragedy</li>
-</ul>
-
-<h2>Achievements</h2>
-
-<p>In the first half of the project EmoDrama I, we advanced the research areas of CLS, NLP and German literary studies by:</p>
-
-<ul>
-  <li>Extending preexisting corpora for plays of the time frame 1650-1815 with non-canonical works in machine readable TEI format,</li>
-  <li>operationalizing the variety of historical emotion terms, emotion concepts and aspects of emotion presentation for a drama-historical question,</li>
-  <li>defining 13 historical emotion concepts in a historically adequate way, </li>
-  <li>providing comprehensive annotation guidelines with numerous complex examples from drama texts on the individual emotion concepts, on source and target, on negation and on the distinction between expressed, attributed and pretended emotion, </li>
-  <li>annotating 17 plays that can be used for analysis and machine learning,</li>
-  <li>analyzing the annotations of plays and reflect upon the usage of quantitative annotation analysis for literary studies,</li>
-  <li>evaluating multiple baseline and state-of-the-art methods for single-label emotion classification (Schmidt, Dennerlein, Wolff 2021b)</li>
-  <li>training models optimized for our specific task (Schmidt, Dennerlein, Wolff 2021b, Dennerlein, Schmidt, Wolff 2023)</li>
-  <li>exploring the classified data with regard to</li>
-  <ul>
-    <li>the correlation of emotions and plot developments (Dennerlein, Schmidt, Wolff 2022a; Dennerlein, Schmidt, Wolff 2022b)</li>
-    <li>the distinciton of tragedy endings from comedy endings on the basis of their emotional footprint (Dennerlein, Schmidt, Wolff 2023)</li>
-    <li>the frequency distributions of emotions in the overall corpus and the major genres comedy and tragedy: anger shows up to be one of the most prominent emotions in comedies (Dennerlein, Schmidt, Wolff
-      2023)</li>
-    <li>Emotions which are already discussed more frequently in stage directions from 1730 onwards, and not only since 1770 (Dennerlein, Schmidt, Wolff in print).</li>
-  </ul>
-</ul>
-
-<h2>Publications:</h2>
-<ul>
-    <li>Dennerlein, K., Schmidt, T. &amp; Wolff, C. Computational Emotion Classification for genrecorpora of German Tragedies and Comedies from 17th to 19th century. Digital Scholarship in the Humanities (DSH). <a href="https://doi.org/10.1093/llc/fqad046">https://doi.org/10.1093/llc/fqad046</a></li>
-    <li>Dennerlein, K., Schmidt, T. &amp; Wolff, C. (in print). Emotions in Stage Directions in German Drama of the Early Modern Period: Explorations via Computational Emotion Classification. In: Melanie Andresen/Nils Reiter/Benjamin Krautter/Janis Pagel (Hg.): Computational Drama Analysis: Achievements and Opportunities. Berlin/New York: de Gruyter, S. 166-194.</li>
+    <li>Dennerlein, K., Schmidt, T. &amp; Wolff, C. (2024). Emotions in Stage Directions in German Drama of the Early Modern Period: Explorations via Computational Emotion Classification. In: Melanie Andresen/Nils Reiter/Benjamin Krautter/Janis Pagel (Hg.): <a href="https://www.degruyter.com/document/isbn/9783111071763/html?lang=de">Computational Drama Analysis: Achievements and Opportunities</a>. Berlin/New York: de Gruyter, S. 166-194.</li>
+    <li>Dennerlein, K., Schmidt, T. &amp; Wolff, C (2023b). EmoDrama. Ein Korpus mit Emotionsinformationen in Dramen von 1650–1815. In: Zeitschrift für digitale Geisteswissenschaften 8 (2023). <a href="https://doi.org/10.17175/2023_010">https://doi.org/10.17175/2023_010</a></li>
+    <li>Dennerlein, K., Schmidt, T. &amp; Wolff, C (2023a). Computational Emotion Classification for genrecorpora of German Tragedies and Comedies from 17th to 19th century. Digital Scholarship in the Humanities (DSH). <a href="https://doi.org/10.1093/llc/fqad046">https://doi.org/10.1093/llc/fqad046</a>, pdf: <a href="https://epub.uni-regensburg.de/54941/1/fqad046.pdf">https://epub.uni-regensburg.de/54941/1/fqad046.pdf</a> </li>, License: <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International</a> </li>
+    <li>Dennerlein, K., Schmidt, T. &amp; Wolff, C. (2022).  Emotion courses in German Historical Tragedies and Comedies.. In <i><a href="https://www.degruyter.com/document/isbn/9783110783810/html?lang=en">Book of Abstracts</a></li> DH 2022.</i> Tokyo, Japan 2022, pp 193-197.
     <li>Brandes, Ph., Dennerlein, K., Jacke, J., Marshall, S., Pielström, St., Schneider, F. Modelling and Operationalizing Concepts in Computational Literary Studies. In Book of Abstracts DH 2022. Tokyo, Japan 2022, S. 70–73.</li>
   <li>Dennerlein, K., Huber, M. (2022). Reports on Modelling dramatic metadata. With examples of communicative relevance of female playwrights in the second half of the 18th century. In <i>Book of Abstracts, Digital Humanities Nord 2022</i>. Uppsala, Sweden.</li>
-    <li>Dennerlein, K., Schmidt, T. &amp; Wolff, C. (2022). Emotionen im kulturellen Gedächtnis bewahren. In <i>DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022.</i> Potsdam, Germany. <a href="https://doi.org/10.5281/zenodo.6327957">https://doi.org/10.5281/zenodo.6327957</a></li>
-  <li>Dennerlein, K., Schmidt, T. &amp; Wolff, C. (2022). <i>Figurenemotionen in deutschsprachigen Dramen annotieren.</i>&lt; Zenodo. <a href="https://doi.org/10.5281/zenodo.6228151">https://doi.org/10.5281/zenodo.6228151</a></li>
+    <li>Dennerlein, K., Schmidt, T. &amp; Wolff, C. (2022a). Emotionen im kulturellen Gedächtnis bewahren. In <i>DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022.</i> Potsdam, Germany. <a href="https://doi.org/10.5281/zenodo.6327957">https://doi.org/10.5281/zenodo.6327957</a></li>
+  <li>Dennerlein, K., Schmidt, T. &amp; Wolff, C. (2022b). <i>Figurenemotionen in deutschsprachigen Dramen annotieren.</i>&lt; Zenodo. <a href="https://doi.org/10.5281/zenodo.6228151">https://doi.org/10.5281/zenodo.6228151</a></li>
     <li>Schmidt, T., Dennerlein K. &amp; Wolff, C. (2022). Evaluation computergestützter Verfahren der Emotionsklassifikation für deutschsprachige Dramen um 1800. In <i>DHd 2022 Kulturen des digitalen Gedächtnisses. Book of Abstracts, DHd 2022.</i> Potsdam, Germany. <a href="https://doi.org/10.5281/zenodo.6328169">https://doi.org/10.5281/zenodo.6328169</a></li>
     <li>Dennerlein, K. (2021). <i>Materialien und Medien der Komödiengeschichte. Zur Praxeologie der Werkzirkulation zwischen Hamburg und Wien von 1678–1806 (Studien und Texten zur Sozialgeschichte der deutschen Literatur 152).</i> Berlin/New York: de Gruyter. <a href="https://doi.org/10.1515/9783110691191">https://doi.org/10.1515/9783110691191</a></li>
     <li>Schmidt, T., Dennerlein, K., &amp; Wolff, C. (2021). Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language. In <i>Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</i> (pp. 67-79). <a href="https://doi.org/10.18653/v1/2021.latechclfl-1.8">https://doi.org/10.18653/v1/2021.latechclfl-1.8</a></li>
     <li>Schmidt, T., Dennerlein, K., &amp; Wolff, C. (2021). Towards a Corpus of Historical German Plays with Emotion Annotations. In <i>3rd Conference on Language, Data and Knowledge (LDK 2021)</i>. Dagstuhl, Germany: Schloss Dagstuhl-Leibniz-Zentrum für Informatik. <a href="https://doi.org/10.4230/OASIcs.LDK.2021.9">https://doi.org/10.4230/OASIcs.LDK.2021.9</a></li>
     <li>Schmidt, T., Dennerlein, K. &amp; Wolff, C. (2021). Using Deep Learning for Emotion Analysis of 18th and 19th Century German Plays. In: Burghardt, M. et al. (Edt.). <i>Fabrikation von Erkenntnis: Experimente in den Digital Humanities.</i> Esch-sur-Alzette: Melusina Press. <a href="https://doi.org/10.26298/melusina.8f8w-y749-udlf">https://doi.org/10.26298/melusina.8f8w-y749-udlf</a></li>  
   </ul>
-
-<h2>Talks and further material:</h2>
-
-<ul>
-  <li> Schmidt, T., Dennerlein, K. &amp; Wolff, C. (2022, accepted). Insights and Perspectives of the Research project ‘Emotions in Drama’. In <i>Computational Stylistics Workshop on Emotion and Sentiment Analysis in Literature</i>. Paris, France.
-  <li>Presentation at the University Göttingen: "Emotion und Gattung. Zur Analyse von Dramen um 1800." (December 20th, 2021).</li>
-  <li>Keynote at the workshop "Sentiment Analysis in Literary Studies" at the University of Graz in February 2021.</li>
+  
+    <p>
+    For previous and subsequent publications on dramas, as well as sentiment and emotion analysis, see:
+    </p>
   <ul>
-    <li><a href="https://informationsmodellierung.uni-graz.at/de/institut/veranstaltungen/sentiment-analysis-in-literary-studies-2021/">More Information about the Workshop</a></li>
-    <li><a href="https://youtu.be/WvJ8BvaSJCw">Video to the Keynote: Annotating and quantifying sentiment and emotions in German plays from around 1800</a></li>
+    <li><a href="http://katrindennerlein.de/digitale-literaturgeschichte/">http://katrindennerlein.de/digitale-literaturgeschichte/</a></li>
+    <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html">http://katrindennerlein.de/digitale-literaturgeschichte/</a></li>
   </ul>
-  <li><a href="https://www.uni-wuerzburg.de/fileadmin/uniwue/Presse/EinBLICK/2020/PDFs/ar202023.pdf">Official Press Release (in German)</a></li>
-  <li>Participation at the Digital Humanities Day in Leipzig</li>
-    <ul>
-      <li><a href="https://fdhl.info/dhdl-2020/">Digital Humanities Day Leipzig (DHDL) - Schedule</a></li>
-      <li><a href="https://fdhl.info/wp-content/uploads/2020/12/Poster_DINA4.pdf">Poster (in German)</a></li>
-      <li><a href="https://youtu.be/9DdybUzN92E">Video for the Poster Slam (in German)</a></li>
+
+<h2>Works cited</h2>
+  <ul>
+    <li>Grimm, H. „Affekt“. „Affekt.“ In: Karlheinz Barck/Martin Fontius/Dieter Schlenstedt (Hg.): Ästhetische Grundbegriffe, Bd. 1. Stuttgart – Weimar: Metzler 2000, S. 16-49.</li>
+    <li>Schonlau, A. Emotionen im Dramentext: Eine methodische Grundlegung mit exemplarischer Analyse zu Neid und Intrige 1750-1800. Berlin, Boston: de Gruyter, 2017.</li>
+    <li>Arnold, A.: Rhetorik der Empfindsamkeit: Unterhaltungskunst im 17. und 18. Jahrhundert. Berlin: de Gruyter 2012.</li>
   </ul>
   
- &lt;/ul&gt;
- 
- <h2>Contact:</h2>
-<ul>
-    <li>Katrin Dennerlein:</li>
-    <ul>
-      <li>katrin.dennerlein@uni-wuerzburg.de</li>
-      <li><a href="https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/mitarbeiter/dennerlein/">Webseite</a></li>
-  </ul>
-  <li>Christian Wolff:</li>
-  <ul>
-      <li>christian.wolff@ur.de</li>
-      <li>Twitter: <a href="https://twitter.com/chriswolff">@chriswolff</a></li>
-      <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/christian-wolff/">Webseite</a></li>
-  </ul>
-  <li>Thomas Schmidt:</li>
-    <ul>
-      <li>thomas.schmidt@ur.de</li>
-      <li>Twitter: <a href="https://twitter.com/thomasS_UniR">@thomasS_UniR</a></li>
-      <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html">Webseite</a></li>
-    </ul>
-  </ul>
-</li></ul>
 </div>
 <!--<div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2020-01-24T00:00:00+00:00"><!-- start custom article footer snippet -->
 
